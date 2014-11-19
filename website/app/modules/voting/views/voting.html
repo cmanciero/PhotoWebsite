@@ -1,0 +1,22 @@
+<section>
+	<div class="row">
+		<div class="col-md-4">
+			<cgm-photo-upload account-attr="myInfo"></cgm-photo-upload>
+		</div>
+		<div class="col-md-8">
+			<cgm-voting-section person-attr="person" submit-vote-attr="submitVote(votedJob)"></cgm-voting-section>
+			<!-- <h1>What do you think I do for a living?</h1>
+			<form novalidate name="voteForm" ng-submit="voteForm.$valid && submitVote(voteForm.job)">
+				<ul>
+					<li ng-repeat="job in person.jobs">
+						<label>
+							<input type="radio" name="jobTitle" value="{{job}}" ng-model="voteForm.job" required/>
+							{{ job.title }}
+						</label>
+					</li>
+				</ul>
+				<input type="submit" value="Submit Guess"/>
+			</form> -->
+		</div>
+	</div>
+</section>

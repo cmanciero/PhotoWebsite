@@ -1,0 +1,13 @@
+<section>
+	<div class="row">
+		<div class="col-md-10">
+			<span ng-hide="isEdit">{{jobs.title}}</span>
+			<input type="text" ng-model="jobs.title" style="width:100%;" ng-show="isEdit"/>
+			{{job}}
+		</div>
+		<div class="col-md-2">
+			<span ng-hide="isEdit" ng-click="editJob()">Change</span>
+			<span ng-show="isEdit" ng-click="changeJob()">Done</span>
+		</div>
+	</div>
+</section>

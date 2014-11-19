@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1566" measuredH="831" mockupW="1280" mockupH="800">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="286" y="31" w="1280" h="800" measuredW="1280" measuredH="800" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1280" h="800" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Work%20for%20a%20living</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="191" y="194" w="899" h="392" measuredW="899" measuredH="392" zOrder="1" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="311" h="392" measuredW="3264" measuredH="2448" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <filter>true</filter>
+                <src>../../Pictures/My%2520Pics/IMG_0004.JPG</src>
+                <text>Your%20picture</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="332" y="22" w="567" h="252" measuredW="440" measuredH="217" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>28</size>
+                <text>What%20do%20you%20think%20I%20do%20for%20a%20living%3F%0A%20%0A%28%20%29%20Software%20Developer%0A%28%20%29%20Doctor%0A%28%20%29%20Construction%20Worker%0A%28%20%29%20Architect</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="332" y="306" w="325" h="57" measuredW="201" measuredH="36" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <menuIcon>false</menuIcon>
+                <size>28</size>
+                <text>Submit%20Guess</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="73" w="1280" h="59" measuredW="1280" measuredH="59" zOrder="2" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1280" h="59" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>65535</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="1233" y="13" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>PowerIcon%7Cmedium</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="15" y="8" w="-1" h="-1" measuredW="260" measuredH="43" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Website%20name</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="1121" y="17" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <href>my%20profile%26bm%3Bmy%20profile.bmml%26bm%3Bmy%20profile.bmml%26bm%3Bmy%20profile.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221121%2C90%2C1218%2C114%22%20href%3D%22my%2520profile.bmml%22%20alt%3D%22my%20profile%22%20id%3D%223%22/%3E</map>
+                <size>18</size>
+                <text>My%20Account</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

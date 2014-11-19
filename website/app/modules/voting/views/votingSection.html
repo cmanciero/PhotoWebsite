@@ -1,0 +1,14 @@
+<section>
+	<h1>What do you think I do for a living?</h1>
+	<form novalidate name="voteForm" ng-submit="voteForm.$valid && vote(voteForm.job)">
+		<ul>
+			<li ng-repeat="job in person.jobs">
+				<label>
+					<input type="radio" name="jobTitle" value="{{job}}" ng-model="voteForm.job" required/>
+					{{ job.title }}
+				</label>
+			</li>
+		</ul>
+		<input type="submit" value="Submit Guess"/>
+	</form>
+</section>

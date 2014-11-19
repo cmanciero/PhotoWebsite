@@ -1,0 +1,12 @@
+<div>
+	<img ng-src="{{account.photo}}" class="img-responsive"/>
+	<input onchange="angular.element(this).scope().fileChanged(this)" type="file" style="position:absolute; top:0; left:0; width:100%; z-index:1; height:100%; opacity:0;" title="{{account.photo}}" />
+	<span style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">Click to change photo</span>
+	<div class="progress" ng-show="progress!=0">
+		<div class="bar" style="width:{{progress}}%;"></div>
+	</div>
+	{{avatar}}
+	<div ng-if="avatar != ''" style="margin: 50px 0 0;">
+		<img ng-src="upload/{{avatar}}"/>
+	</div>
+</div>

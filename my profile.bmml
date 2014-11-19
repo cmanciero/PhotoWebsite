@@ -1,0 +1,198 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1815" measuredH="1107" mockupW="1529" mockupH="1076">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="286" y="31" w="1529" h="1076" measuredW="1529" measuredH="1076" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1280" h="1076" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Work%20for%20a%20living</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="73" w="1280" h="59" measuredW="1280" measuredH="59" zOrder="4" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1280" h="59" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>65535</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="1233" y="13" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>PowerIcon%7Cmedium</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="15" y="8" w="-1" h="-1" measuredW="260" measuredH="43" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Website%20name</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="1121" y="17" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>18</size>
+                <text>My%20Account</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1264" y="132" w="-1" h="917" measuredW="16" measuredH="100" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <value>0</value>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="98" y="161" w="257" h="392" measuredW="3264" measuredH="2448" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <filter>true</filter>
+            <src>../../Pictures/My%2520Pics/IMG_0004.JPG</src>
+            <text>Your%20picture</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="370" y="190" w="763" h="335" measuredW="763" measuredH="335" zOrder="2" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="4" controlTypeID="__group__" x="0" y="0" w="763" h="335" measuredW="763" measuredH="335" zOrder="0" locked="false" isInGroup="5">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="276" h="-1" measuredW="275" measuredH="27" zOrder="0" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <text>Number%20of%20Votes%3A%2030%2C457</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="308" y="0" w="215" h="-1" measuredW="214" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <text>Winning%20Profession%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="538" y="0" w="225" h="-1" measuredW="224" measuredH="27" zOrder="2" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <color>13576743</color>
+                    <text>Construction%20Worker</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="0" y="27" w="657" h="308" measuredW="657" measuredH="308" zOrder="3" locked="false" isInGroup="4">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::BarChart" x="0" y="0" w="657" h="308" measuredW="187" measuredH="175" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="__group__" x="13" y="61" w="170" h="198" measuredW="170" measuredH="198" zOrder="1" locked="false" isInGroup="3">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="170" h="-1" measuredW="155" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Software%20Developer%20%2815%25%29</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="48" w="89" h="-1" measuredW="82" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Doctor%20%2820%25%29</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="129" w="170" h="-1" measuredW="163" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Construction%20Worker%20%2835%25%29</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="177" w="104" h="-1" measuredW="95" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Architect%20%2830%25%29</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::StickyNote" x="1297" y="161" w="232" h="153" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>16</size>
+            <text>The%20chart%20and%20vote%20information%20does%20not%20show%20until%204%20professions%20are%20chosen%20and%20a%20picture%20is%20set</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="1294" y="336" w="232" h="153" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>16</size>
+            <text>Winning%20Profession%20value%20would%20be%20Green%20if%20it%27s%20a%20Match%20to%20person%27s%20profession%20and%20Red%20if%20not</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="98" y="606" w="-1" h="-1" measuredW="203" measuredH="36" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>28</size>
+            <text>Your%20profession%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="1297" y="514" w="232" h="153" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>16</size>
+            <text>Your%20profession%20should%20come%20from%20the%20person%27s%20info%20from%20FaceBook%2C%20Twitter%20or%20LinkedIn%20if%20available.%20%20If%20not%20show%20Profession%20selection%20method</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="98" y="667" w="-1" h="-1" measuredW="301" measuredH="32" zOrder="10" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>24</size>
+            <text>Choose%203%20other%20professions</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="__group__" x="316" y="606" w="817" h="36" measuredW="817" measuredH="36" zOrder="9" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="252" measuredH="36" zOrder="0" locked="false" isInGroup="16">
+              <controlProperties>
+                <size>28</size>
+                <text>Software%20Developer</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="750" y="5" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="1" locked="false" isInGroup="16">
+              <controlProperties>
+                <size>20</size>
+                <text>change</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="23" controlTypeID="__group__" x="130" y="705" w="1003" h="36" measuredW="1003" measuredH="36" zOrder="11" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="86" measuredH="36" zOrder="0" locked="false" isInGroup="23">
+              <controlProperties>
+                <size>28</size>
+                <text>Doctor</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="936" y="5" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="1" locked="false" isInGroup="23">
+              <controlProperties>
+                <size>20</size>
+                <text>change</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="24" controlTypeID="__group__" x="130" y="743" w="1003" h="36" measuredW="1003" measuredH="36" zOrder="12" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="262" measuredH="36" zOrder="0" locked="false" isInGroup="24">
+              <controlProperties>
+                <size>28</size>
+                <text>Construction%20Worker</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="936" y="5" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="1" locked="false" isInGroup="24">
+              <controlProperties>
+                <size>20</size>
+                <text>change</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="25" controlTypeID="__group__" x="130" y="784" w="1003" h="36" measuredW="1003" measuredH="36" zOrder="13" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="114" measuredH="36" zOrder="0" locked="false" isInGroup="25">
+              <controlProperties>
+                <size>28</size>
+                <text>Architect</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="936" y="5" w="-1" h="-1" measuredW="67" measuredH="26" zOrder="1" locked="false" isInGroup="25">
+              <controlProperties>
+                <size>20</size>
+                <text>change</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

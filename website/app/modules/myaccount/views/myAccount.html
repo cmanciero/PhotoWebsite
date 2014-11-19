@@ -1,0 +1,29 @@
+<section>
+	<div class="row">
+		<div class="col-md-4">
+			<cgm-photo-upload account-attr="myInfo"></cgm-photo-upload>
+		</div>
+		<div class="col-md-8">
+			<cgm-voting-results account-attr="myInfo"></cgm-voting-results>
+		</div>
+	</div>
+	<!-- <form novalidate name="myJobsForm" ng-submit="myJobsForm.$valid && updateJobs()">
+		<div class="row">
+			<div class="col-md-12">
+				Your profession:
+				<cgm-select-profession jobs-attr="myInfo.jobs[0]"></cgm-select-profession>
+				Choose 3 other professions:
+				<div ng-repeat="job in myInfo.jobs | slice:1:myInfo.jobs.length">
+					<cgm-select-profession jobs-attr="job"></cgm-select-profession>
+				</div>
+			</div>
+		</div>
+	</form> -->
+	<div class="row">
+		<div class="col-md-12">
+			Please enter your current job title as well as 3 others that you would like to use a options for people to vote on.
+		</div>
+	</div>
+	<cgm-my-jobs-form></cgm-my-jobs-form>
+	<cgm-sign-up></cgm-sign-up>
+</section>
