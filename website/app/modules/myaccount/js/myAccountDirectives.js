@@ -12,20 +12,21 @@
 					link: function(scope) {
 						scope.linkedInService = linkedInService;
 						scope.myProfile = {};
-						linkedInService.getProfile();
+
 						// get list of jobs
 						jobsService.setJobsList();
 
 						scope.weatherForecast = '';
 
-						// watch to see if linkedIn profile gets set/updated
-						scope.$watch('linkedInService.getLinkedInProfile()', function(newVal) {
-							scope.myProfile = newVal;
-							scope.setValues(newVal);
+						scope.$on('linkedInProfileSet', function(event, profile) {
+							scope.myProfile = profile;
+							scope.setValues(profile);
+							scope.$apply();
 						});
 
-						scope.$watch('linkedInService.getLinkedInConnections()', function(newVal) {
-							console.log(newVal);
+						scope.$on('linkedInConnectionsSet', function(event, connections) {
+							console.log(connections);
+							scope.$apply();
 						});
 
 						scope.submitForm = function() {

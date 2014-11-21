@@ -6,45 +6,22 @@
 			function($rootScope) {
 				var linkedInProfile = {};
 				var linkedInConnections = {};
-				var id = 0;
-
-				// get profile
-				this.getProfile = function() {
-					id = setInterval(checkForProfile, 500);
-				};
-
-				// set linkedIn profile
-				this.setProfile = function(profiles) {
-					linkedInProfile = profiles.values[0];
-				};
-
-				// check to see if profile value is set
-				var checkForProfile = function() {
-					if (linkedInProfile.hasOwnProperty('id')) {
-						clearInterval(id);
-					}
-					$rootScope.$apply();
-				};
-
-				// return linkedIn profile
-				this.getLinkedInProfile = function() {
-					return linkedInProfile;
-				};
-
-				this.setLinkedInConnections = function(connections) {
-					linkedInConnections = connections;
-				};
-
-				this.getLinkedInConnections = function() {
-					return linkedInConnections;
-				};
 
 				return {
-					setLinkedInProfile: this.setProfile,
-					getProfile: this.getProfile,
-					getLinkedInProfile: this.getLinkedInProfile,
-					setLinkedInConnections: this.setLinkedInConnections,
-					getLinkedInConnections: this.getLinkedInConnections
+					setLinkedInProfile: function(profiles) {
+						linkedInProfile = profiles.values[0];
+						$rootScope.$broadcast('linkedInProfileSet', linkedInProfile);
+					},
+					getLinkedInProfile: function() {
+						return linkedInProfile;
+					},
+					setLinkedInConnections: function(connections) {
+						linkedInConnections = connections;
+						$rootScope.$broadcast('linkedInConnectionsSet', linkedInConnections);
+					},
+					getLinkedInConnections: function() {
+						return linkedInConnections;
+					}
 				};
 			}
 		])
