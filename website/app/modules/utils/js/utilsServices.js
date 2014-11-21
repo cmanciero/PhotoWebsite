@@ -65,8 +65,8 @@
 				};
 			}
 		])
-		.factory('jobsService', ['$http', '$q',
-			function($http, $q) {
+		.factory('jobsService', ['$http', '$q', '$rootScope',
+			function($http, $q, $rootScope) {
 				var arrJobsList = [];
 
 				function randomSort() {
@@ -77,6 +77,7 @@
 					setJobsList: function() {
 						return $http.get('modules/utils/js/jobs.json').then(function(response) {
 							arrJobsList = response.data.jobs;
+							$rootScope.$broadcast('jobsListSet', arrJobsList);
 						}, function(response) {
 							return $q.reject(response.data);
 						});
@@ -89,7 +90,7 @@
 					},
 					getRandomJob: function() {
 						var randomNumber = Math.floor(Math.random() * arrJobsList.length);
-						return arrJobsList[randomNumber];
+						return arrJobsList[randomNumber].job;
 					}
 				};
 			}

@@ -13,8 +13,14 @@
 						scope.linkedInService = linkedInService;
 						scope.myProfile = {};
 
-						// get list of jobs
-						jobsService.setJobsList();
+						// get 3 random jobs
+						scope.$on('jobsListSet', function() {
+							var arrRandomJobs = jobsService.getRandomJobs(3);
+
+							scope.jobOption1 = arrRandomJobs[0].job;
+							scope.jobOption2 = arrRandomJobs[1].job;
+							scope.jobOption3 = arrRandomJobs[2].job;
+						});
 
 						scope.weatherForecast = '';
 
@@ -28,6 +34,22 @@
 							console.log(connections);
 							scope.$apply();
 						});
+
+						scope.changeJob = function(optionNumber) {
+							switch (optionNumber) {
+								case 1:
+									scope.jobOption1 = jobsService.getRandomJob();
+									break;
+								case 2:
+									scope.jobOption2 = jobsService.getRandomJob();
+									break;
+								case 3:
+									scope.jobOption3 = jobsService.getRandomJob();
+									break;
+								default:
+									break;
+							}
+						};
 
 						scope.submitForm = function() {
 							//promise examples
@@ -43,13 +65,6 @@
 							// }, function(error) {
 							// 	console.log(error);
 							// });
-
-							// get list of all jobs
-							console.log(jobsService.getJobsList());
-							// get number of random jobs
-							console.log(jobsService.getRandomJobs(3));
-							// get one random job
-							console.log(jobsService.getRandomJob());
 						};
 
 						scope.setValues = function(profile) {

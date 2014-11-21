@@ -2,8 +2,8 @@
 	'use strict';
 
 	angular.module('jobPhotoApp.signup.directives', [])
-		.directive('cgmSignUp', ['linkedInService',
-			function(linkedInService) {
+		.directive('cgmSignUp', ['linkedInService', 'jobsService',
+			function(linkedInService, jobsService) {
 				return {
 					restrict: 'E',
 					scope: {},
@@ -33,6 +33,9 @@
 
 						// load linkedIn information
 						scope.onLinkedInLoad();
+
+						// get list of jobs
+						jobsService.setJobsList();
 					}
 				};
 			}
