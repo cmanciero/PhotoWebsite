@@ -87,5 +87,21 @@
 					}
 				};
 			}
+		])
+		.factory('jobsService', ['$http', '$q',
+			function($http, $q) {
+				return {
+					getJobsList: function() {
+						return $http.get('modules/utils/js/jobs.json').then(function(response) {
+							var jobs = response.data.jobs;
+							for (var i = 0, j = jobs.length; i < j; i += 1) {
+								console.log(jobs[i].job);
+							}
+						}, function(response) {
+							return $q.reject(response.data);
+						});
+					}
+				};
+			}
 		]);
 })();

@@ -2,8 +2,8 @@
 	'use strict';
 
 	angular.module('jobPhotoApp.myaccount.directives', [])
-		.directive('cgmMyJobsForm', ['linkedInService', 'weatherService',
-			function(linkedInService, weatherService) {
+		.directive('cgmMyJobsForm', ['linkedInService', 'weatherService', 'jobsService',
+			function(linkedInService, weatherService, jobsService) {
 				return {
 					restrict: 'E',
 					scope: {},
@@ -41,6 +41,8 @@
 							}, function(error) {
 								console.log(error);
 							});
+
+							// jobsService.getJobsList();
 						};
 
 						scope.setValues = function(profile) {

@@ -1,0 +1,5567 @@
+{
+	"jobs": [{
+		"job": "abap developer"
+	}, {
+		"job": "academic advisor"
+	}, {
+		"job": "academic counselor"
+	}, {
+		"job": "academic dean"
+	}, {
+		"job": "account business executive"
+	}, {
+		"job": "account collector"
+	}, {
+		"job": "account executive"
+	}, {
+		"job": "account inside sales executive"
+	}, {
+		"job": "account inside sales manager"
+	}, {
+		"job": "account manager"
+	}, {
+		"job": "account marketing executive"
+	}, {
+		"job": "account outside sales executive"
+	}, {
+		"job": "account outside sales manager"
+	}, {
+		"job": "account sales executive"
+	}, {
+		"job": "account sales manager"
+	}, {
+		"job": "accountant"
+	}, {
+		"job": "accounting accounts payable clerk"
+	}, {
+		"job": "accounting administrator"
+	}, {
+		"job": "accounting analyst"
+	}, {
+		"job": "accounting assistant"
+	}, {
+		"job": "accounting associate"
+	}, {
+		"job": "accounting bookkeeper"
+	}, {
+		"job": "accounting clerk"
+	}, {
+		"job": "accounting consultant"
+	}, {
+		"job": "accounting controller"
+	}, {
+		"job": "accounting coordinator"
+	}, {
+		"job": "accounting director"
+	}, {
+		"job": "accounting instructor"
+	}, {
+		"job": "accounting manager"
+	}, {
+		"job": "accounting professional"
+	}, {
+		"job": "accounting representative"
+	}, {
+		"job": "accounting specialist"
+	}, {
+		"job": "accounting supervisor"
+	}, {
+		"job": "accounting technician"
+	}, {
+		"job": "accounts payable accountant"
+	}, {
+		"job": "accounts payable accounts receivable clerk"
+	}, {
+		"job": "accounts payable administrator"
+	}, {
+		"job": "accounts payable analyst"
+	}, {
+		"job": "accounts payable assistant"
+	}, {
+		"job": "accounts payable associate"
+	}, {
+		"job": "accounts payable clerk"
+	}, {
+		"job": "accounts payable coordinator"
+	}, {
+		"job": "accounts payable manager"
+	}, {
+		"job": "accounts payable representative"
+	}, {
+		"job": "accounts payable specialist"
+	}, {
+		"job": "accounts payable supervisor"
+	}, {
+		"job": "accounts receivable accountant"
+	}, {
+		"job": "accounts receivable accounts payable clerk"
+	}, {
+		"job": "accounts receivable analyst"
+	}, {
+		"job": "accounts receivable assistant"
+	}, {
+		"job": "accounts receivable associate"
+	}, {
+		"job": "accounts receivable clerk"
+	}, {
+		"job": "accounts receivable collection clerk"
+	}, {
+		"job": "accounts receivable collection specialist"
+	}, {
+		"job": "accounts receivable collector"
+	}, {
+		"job": "accounts receivable coordinator"
+	}, {
+		"job": "accounts receivable manager"
+	}, {
+		"job": "accounts receivable representative"
+	}, {
+		"job": "accounts receivable specialist"
+	}, {
+		"job": "accounts receivable supervisor"
+	}, {
+		"job": "actionscript developer"
+	}, {
+		"job": "actuarial analyst"
+	}, {
+		"job": "actuary"
+	}, {
+		"job": "adjudicate specialist"
+	}, {
+		"job": "administrative assistant"
+	}, {
+		"job": "administrative assistant clerk"
+	}, {
+		"job": "administrative assistant coordinator"
+	}, {
+		"job": "administrative assistant manager"
+	}, {
+		"job": "administrative associate"
+	}, {
+		"job": "administrative clerk"
+	}, {
+		"job": "administrative coordinator"
+	}, {
+		"job": "administrative director"
+	}, {
+		"job": "administrative executive"
+	}, {
+		"job": "administrative executive assistant"
+	}, {
+		"job": "administrative manager"
+	}, {
+		"job": "administrative office assistant"
+	}, {
+		"job": "administrative office manager"
+	}, {
+		"job": "administrative officer"
+	}, {
+		"job": "administrative professional"
+	}, {
+		"job": "administrative receptionist"
+	}, {
+		"job": "administrative secretary"
+	}, {
+		"job": "administrative specialist"
+	}, {
+		"job": "administrative supervisor"
+	}, {
+		"job": "admissions advisor"
+	}, {
+		"job": "admissions director"
+	}, {
+		"job": "admissions manager"
+	}, {
+		"job": "admissions representative"
+	}, {
+		"job": "admitting clerk"
+	}, {
+		"job": "advertising account executive"
+	}, {
+		"job": "advertising account manager"
+	}, {
+		"job": "advertising assistant"
+	}, {
+		"job": "advertising associate"
+	}, {
+		"job": "advertising consultant"
+	}, {
+		"job": "advertising coordinator"
+	}, {
+		"job": "advertising director"
+	}, {
+		"job": "advertising executive"
+	}, {
+		"job": "advertising manager"
+	}, {
+		"job": "advertising representative"
+	}, {
+		"job": "advertising sales executive"
+	}, {
+		"job": "advertising sales manager"
+	}, {
+		"job": "advertising sales representative"
+	}, {
+		"job": "advertising specialist"
+	}, {
+		"job": "aerospace engineer"
+	}, {
+		"job": "agent service representative"
+	}, {
+		"job": "air condition technician"
+	}, {
+		"job": "air traffic controller"
+	}, {
+		"job": "aircraft engine mechanic"
+	}, {
+		"job": "aircraft engineer"
+	}, {
+		"job": "aircraft mechanic"
+	}, {
+		"job": "aircraft painter"
+	}, {
+		"job": "aircraft technician"
+	}, {
+		"job": "airframe mechanic"
+	}, {
+		"job": "airline agent"
+	}, {
+		"job": "airline flight attendant"
+	}, {
+		"job": "airline transport pilot"
+	}, {
+		"job": "aix system administrator"
+	}, {
+		"job": "alarm technician"
+	}, {
+		"job": "aluminum welder"
+	}, {
+		"job": "anesthesia technician"
+	}, {
+		"job": "anesthesiologist"
+	}, {
+		"job": "anesthetist"
+	}, {
+		"job": "animal care technician"
+	}, {
+		"job": "animal caretaker"
+	}, {
+		"job": "animal officer"
+	}, {
+		"job": "animal technician"
+	}, {
+		"job": "announcer"
+	}, {
+		"job": "antenna engineer"
+	}, {
+		"job": "apartment assistant manager"
+	}, {
+		"job": "apartment lease agent"
+	}, {
+		"job": "apartment lease consultant"
+	}, {
+		"job": "apartment manager"
+	}, {
+		"job": "apartment property manager"
+	}, {
+		"job": "apartment supervisor"
+	}, {
+		"job": "application dba"
+	}, {
+		"job": "application developer"
+	}, {
+		"job": "application development manager"
+	}, {
+		"job": "application software developer"
+	}, {
+		"job": "application software engineer"
+	}, {
+		"job": "application system analyst"
+	}, {
+		"job": "appraisal specialist"
+	}, {
+		"job": "appraiser"
+	}, {
+		"job": "apprentice electrician"
+	}, {
+		"job": "aquatic director"
+	}, {
+		"job": "architectural designer"
+	}, {
+		"job": "archivist"
+	}, {
+		"job": "armed service technician"
+	}, {
+		"job": "art director"
+	}, {
+		"job": "art graphic designer"
+	}, {
+		"job": "art instructor"
+	}, {
+		"job": "artist"
+	}, {
+		"job": "as400 administrator"
+	}, {
+		"job": "as400 analyst"
+	}, {
+		"job": "as400 developer"
+	}, {
+		"job": "as400 operator"
+	}, {
+		"job": "asbestos worker"
+	}, {
+		"job": "ase technician"
+	}, {
+		"job": "asp.net c# developer"
+	}, {
+		"job": "asp.net developer"
+	}, {
+		"job": "asset accountant"
+	}, {
+		"job": "asset manager"
+	}, {
+		"job": "assistant accounting manager"
+	}, {
+		"job": "assistant bookkeeper"
+	}, {
+		"job": "assistant branch manager"
+	}, {
+		"job": "assistant buyer"
+	}, {
+		"job": "assistant director"
+	}, {
+		"job": "assistant editor"
+	}, {
+		"job": "assistant education director"
+	}, {
+		"job": "assistant executive housekeeper"
+	}, {
+		"job": "assistant facility manager"
+	}, {
+		"job": "assistant finance director"
+	}, {
+		"job": "assistant food service director"
+	}, {
+		"job": "assistant food service manager"
+	}, {
+		"job": "assistant housekeeping manager"
+	}, {
+		"job": "assistant instructor"
+	}, {
+		"job": "assistant librarian"
+	}, {
+		"job": "assistant marketing manager"
+	}, {
+		"job": "assistant office manager"
+	}, {
+		"job": "assistant plant manager"
+	}, {
+		"job": "assistant professor"
+	}, {
+		"job": "assistant project manager"
+	}, {
+		"job": "assistant property manager"
+	}, {
+		"job": "assistant restaurant manager"
+	}, {
+		"job": "assistant retail manager"
+	}, {
+		"job": "assistant store manager"
+	}, {
+		"job": "assistant teacher"
+	}, {
+		"job": "assisted living administrator"
+	}, {
+		"job": "assisted living coordinator"
+	}, {
+		"job": "assisted living director"
+	}, {
+		"job": "assisted living manager"
+	}, {
+		"job": "associate account executive"
+	}, {
+		"job": "associate account manager"
+	}, {
+		"job": "associate accountant"
+	}, {
+		"job": "associate actuary"
+	}, {
+		"job": "associate attorney"
+	}, {
+		"job": "associate buyer"
+	}, {
+		"job": "associate dentist"
+	}, {
+		"job": "associate editor"
+	}, {
+		"job": "associate professor"
+	}, {
+		"job": "associate project manager"
+	}, {
+		"job": "associate recruiter"
+	}, {
+		"job": "associate veterinarian"
+	}, {
+		"job": "athletic director"
+	}, {
+		"job": "athletic trainer"
+	}, {
+		"job": "atm technician"
+	}, {
+		"job": "attorney"
+	}, {
+		"job": "audio technician"
+	}, {
+		"job": "audio visual engineer"
+	}, {
+		"job": "audio visual technician"
+	}, {
+		"job": "audiologist"
+	}, {
+		"job": "audit accountant"
+	}, {
+		"job": "audit associate"
+	}, {
+		"job": "audit director"
+	}, {
+		"job": "audit manager"
+	}, {
+		"job": "auditor"
+	}, {
+		"job": "auto advisor"
+	}, {
+		"job": "auto body technician"
+	}, {
+		"job": "auto detailer"
+	}, {
+		"job": "auto glass technician"
+	}, {
+		"job": "auto manager"
+	}, {
+		"job": "auto mechanic"
+	}, {
+		"job": "auto service technician"
+	}, {
+		"job": "auto shop manager"
+	}, {
+		"job": "auto technician"
+	}, {
+		"job": "auto technician mechanic"
+	}, {
+		"job": "autocad drafter"
+	}, {
+		"job": "autocad draftsman"
+	}, {
+		"job": "automation engineer"
+	}, {
+		"job": "automation specialist"
+	}, {
+		"job": "automation technician"
+	}, {
+		"job": "automotive advisor"
+	}, {
+		"job": "automotive ase technician"
+	}, {
+		"job": "automotive assistant"
+	}, {
+		"job": "automotive consultant"
+	}, {
+		"job": "automotive detailer"
+	}, {
+		"job": "automotive lube technician"
+	}, {
+		"job": "automotive manager"
+	}, {
+		"job": "automotive mechanic"
+	}, {
+		"job": "automotive professional"
+	}, {
+		"job": "automotive representative"
+	}, {
+		"job": "automotive salesperson"
+	}, {
+		"job": "automotive service technician"
+	}, {
+		"job": "automotive shop manager"
+	}, {
+		"job": "automotive technician"
+	}, {
+		"job": "avaya engineer"
+	}, {
+		"job": "aviation manager"
+	}, {
+		"job": "aviation mechanic"
+	}, {
+		"job": "aviation technician"
+	}, {
+		"job": "avionic engineer"
+	}, {
+		"job": "avionic technician"
+	}, {
+		"job": "b2b representative"
+	}, {
+		"job": "b2b sales executive"
+	}, {
+		"job": "b2b sales representative"
+	}, {
+		"job": "baker manager"
+	}, {
+		"job": "bakery assistant"
+	}, {
+		"job": "bakery associate"
+	}, {
+		"job": "bakery clerk"
+	}, {
+		"job": "bakery manager"
+	}, {
+		"job": "bakery manager assistant"
+	}, {
+		"job": "bank manager"
+	}, {
+		"job": "banker"
+	}, {
+		"job": "banking assistant"
+	}, {
+		"job": "banking consultant"
+	}, {
+		"job": "banking manager"
+	}, {
+		"job": "banking officer"
+	}, {
+		"job": "banking representative"
+	}, {
+		"job": "banking specialist"
+	}, {
+		"job": "banquet bartender"
+	}, {
+		"job": "banquet chef"
+	}, {
+		"job": "banquet cook"
+	}, {
+		"job": "banquet manager"
+	}, {
+		"job": "barber"
+	}, {
+		"job": "bartender"
+	}, {
+		"job": "bartender manager"
+	}, {
+		"job": "basketball coach"
+	}, {
+		"job": "beautician"
+	}, {
+		"job": "behavioral analyst"
+	}, {
+		"job": "behavioral assistant"
+	}, {
+		"job": "behavioral specialist"
+	}, {
+		"job": "behavioral specialist consultant"
+	}, {
+		"job": "behavioral technician"
+	}, {
+		"job": "behavioral therapist"
+	}, {
+		"job": "benefits analyst"
+	}, {
+		"job": "benefits manager"
+	}, {
+		"job": "bill clerk"
+	}, {
+		"job": "bill coordinator"
+	}, {
+		"job": "bill representative"
+	}, {
+		"job": "bill specialist"
+	}, {
+		"job": "billing analyst"
+	}, {
+		"job": "billing collector"
+	}, {
+		"job": "billing manager"
+	}, {
+		"job": "billing supervisor"
+	}, {
+		"job": "bindery operator"
+	}, {
+		"job": "bindery worker"
+	}, {
+		"job": "biochemist"
+	}, {
+		"job": "biologist"
+	}, {
+		"job": "biomedical engineer"
+	}, {
+		"job": "biomedical manager"
+	}, {
+		"job": "biomedical technician"
+	}, {
+		"job": "biostatistician"
+	}, {
+		"job": "body shop estimator"
+	}, {
+		"job": "body shop manager"
+	}, {
+		"job": "body shop technician"
+	}, {
+		"job": "boiler operator"
+	}, {
+		"job": "boiler technician"
+	}, {
+		"job": "bookkeeper"
+	}, {
+		"job": "bookkeeper assistant"
+	}, {
+		"job": "bookkeeper manager"
+	}, {
+		"job": "branch administrator"
+	}, {
+		"job": "branch director"
+	}, {
+		"job": "branch manager"
+	}, {
+		"job": "branch teller"
+	}, {
+		"job": "brick mason"
+	}, {
+		"job": "bricklayer"
+	}, {
+		"job": "broadband technician"
+	}, {
+		"job": "broadcast engineer"
+	}, {
+		"job": "broker"
+	}, {
+		"job": "budget analyst"
+	}, {
+		"job": "budget executive"
+	}, {
+		"job": "budget manager"
+	}, {
+		"job": "build maintenance technician"
+	}, {
+		"job": "building inspector"
+	}, {
+		"job": "bus driver"
+	}, {
+		"job": "bus operator"
+	}, {
+		"job": "business account executive"
+	}, {
+		"job": "business account manager"
+	}, {
+		"job": "business administrator"
+	}, {
+		"job": "business analyst"
+	}, {
+		"job": "business analyst manager"
+	}, {
+		"job": "business architect"
+	}, {
+		"job": "business assistant"
+	}, {
+		"job": "business associate"
+	}, {
+		"job": "business banker"
+	}, {
+		"job": "business banking officer"
+	}, {
+		"job": "business consultant"
+	}, {
+		"job": "business developer"
+	}, {
+		"job": "business development analyst"
+	}, {
+		"job": "business development assistant"
+	}, {
+		"job": "business development consultant"
+	}, {
+		"job": "business development coordinator"
+	}, {
+		"job": "business development director"
+	}, {
+		"job": "business development manager"
+	}, {
+		"job": "business development professional"
+	}, {
+		"job": "business development representative"
+	}, {
+		"job": "business development specialist"
+	}, {
+		"job": "business intelligence analyst"
+	}, {
+		"job": "business leader"
+	}, {
+		"job": "business manager"
+	}, {
+		"job": "business office assistant"
+	}, {
+		"job": "business office manager"
+	}, {
+		"job": "business operation analyst"
+	}, {
+		"job": "business operation director"
+	}, {
+		"job": "business operation manager"
+	}, {
+		"job": "business outside sales representative"
+	}, {
+		"job": "business project manager"
+	}, {
+		"job": "business quality assurance analyst"
+	}, {
+		"job": "business sales manager"
+	}, {
+		"job": "business sales representative"
+	}, {
+		"job": "business specialist"
+	}, {
+		"job": "business system analyst"
+	}, {
+		"job": "busser"
+	}, {
+		"job": "butcher"
+	}, {
+		"job": "buyer"
+	}, {
+		"job": "c# .net developer"
+	}, {
+		"job": "c# asp.net developer"
+	}, {
+		"job": "c# developer"
+	}, {
+		"job": "c#.net developer"
+	}, {
+		"job": "c++ developer"
+	}, {
+		"job": "c++ engineer"
+	}, {
+		"job": "cable installation technician"
+	}, {
+		"job": "cable installer technician"
+	}, {
+		"job": "cable technician"
+	}, {
+		"job": "cad designer"
+	}, {
+		"job": "cad drafter"
+	}, {
+		"job": "cad draftsman"
+	}, {
+		"job": "cad engineer"
+	}, {
+		"job": "cad manager"
+	}, {
+		"job": "cad operator"
+	}, {
+		"job": "cad technician"
+	}, {
+		"job": "calibration technician"
+	}, {
+		"job": "call center agent"
+	}, {
+		"job": "call center analyst"
+	}, {
+		"job": "call center associate"
+	}, {
+		"job": "call center collector"
+	}, {
+		"job": "call center customer service representative"
+	}, {
+		"job": "call center director"
+	}, {
+		"job": "call center leader"
+	}, {
+		"job": "call center manager"
+	}, {
+		"job": "call center operator"
+	}, {
+		"job": "call center representative"
+	}, {
+		"job": "call center specialist"
+	}, {
+		"job": "call center supervisor"
+	}, {
+		"job": "camera operator"
+	}, {
+		"job": "campaign manager"
+	}, {
+		"job": "campus dean"
+	}, {
+		"job": "car detailer"
+	}, {
+		"job": "cardiac sonographer"
+	}, {
+		"job": "cardiac technician"
+	}, {
+		"job": "cardiology technician"
+	}, {
+		"job": "cardiovascular technician"
+	}, {
+		"job": "cardiovascular technologist"
+	}, {
+		"job": "career services representative"
+	}, {
+		"job": "carpenter"
+	}, {
+		"job": "carpet technician"
+	}, {
+		"job": "case manager"
+	}, {
+		"job": "case worker"
+	}, {
+		"job": "cash specialist"
+	}, {
+		"job": "cash teller"
+	}, {
+		"job": "cashier"
+	}, {
+		"job": "cashier assistant"
+	}, {
+		"job": "cashier associate"
+	}, {
+		"job": "cashier clerk"
+	}, {
+		"job": "cashier manager"
+	}, {
+		"job": "casino manager"
+	}, {
+		"job": "casualty adjuster"
+	}, {
+		"job": "casualty claim adjuster"
+	}, {
+		"job": "cater coordinator"
+	}, {
+		"job": "caterer"
+	}, {
+		"job": "catering coordinator"
+	}, {
+		"job": "catering manager"
+	}, {
+		"job": "cath lab manager"
+	}, {
+		"job": "cdl bus driver"
+	}, {
+		"job": "cdl delivery driver"
+	}, {
+		"job": "cdl driver"
+	}, {
+		"job": "cdl truck driver"
+	}, {
+		"job": "central office technician"
+	}, {
+		"job": "certified cna"
+	}, {
+		"job": "certified counselor"
+	}, {
+		"job": "certified dental assistant"
+	}, {
+		"job": "certified medical assistant"
+	}, {
+		"job": "certified medical coder"
+	}, {
+		"job": "certified medication aide"
+	}, {
+		"job": "certified medication technician"
+	}, {
+		"job": "certified nurse"
+	}, {
+		"job": "certified nurse aide"
+	}, {
+		"job": "certified nurse assistant"
+	}, {
+		"job": "certified nursing aide"
+	}, {
+		"job": "certified nursing assistant"
+	}, {
+		"job": "certified nursing cna"
+	}, {
+		"job": "certified occupational therapist"
+	}, {
+		"job": "certified pharmacy technician"
+	}, {
+		"job": "certified phlebotomy technician"
+	}, {
+		"job": "certified registered nurse"
+	}, {
+		"job": "certified surgical technician"
+	}, {
+		"job": "certified surgical technologist"
+	}, {
+		"job": "chaplain"
+	}, {
+		"job": "charge nurse"
+	}, {
+		"job": "charge registered nurse"
+	}, {
+		"job": "chauffeur"
+	}, {
+		"job": "chef"
+	}, {
+		"job": "chemical engineer"
+	}, {
+		"job": "chemical operator"
+	}, {
+		"job": "chemical technician"
+	}, {
+		"job": "chemist"
+	}, {
+		"job": "chemistry technician"
+	}, {
+		"job": "chief executive officer"
+	}, {
+		"job": "child psychiatrist"
+	}, {
+		"job": "child psychologist"
+	}, {
+		"job": "child therapist"
+	}, {
+		"job": "childcare assistant"
+	}, {
+		"job": "childcare director"
+	}, {
+		"job": "childcare teacher"
+	}, {
+		"job": "childcare worker"
+	}, {
+		"job": "children care assistant"
+	}, {
+		"job": "children care director"
+	}, {
+		"job": "children care teacher"
+	}, {
+		"job": "children care worker"
+	}, {
+		"job": "children director"
+	}, {
+		"job": "children photographer"
+	}, {
+		"job": "children welfare specialist"
+	}, {
+		"job": "chiropractic assistant"
+	}, {
+		"job": "chiropractor"
+	}, {
+		"job": "choreographer"
+	}, {
+		"job": "circulation manager"
+	}, {
+		"job": "cisco engineer"
+	}, {
+		"job": "cisco manager"
+	}, {
+		"job": "citrix administrator"
+	}, {
+		"job": "citrix engineer"
+	}, {
+		"job": "city director"
+	}, {
+		"job": "city driver"
+	}, {
+		"job": "civil designer"
+	}, {
+		"job": "civil engineer"
+	}, {
+		"job": "civil structural engineer"
+	}, {
+		"job": "claim adjuster"
+	}, {
+		"job": "claim administrator"
+	}, {
+		"job": "claim analyst"
+	}, {
+		"job": "claim assistant"
+	}, {
+		"job": "claim associate"
+	}, {
+		"job": "claim auditor"
+	}, {
+		"job": "claim clerk"
+	}, {
+		"job": "claim consultant"
+	}, {
+		"job": "claim coordinator"
+	}, {
+		"job": "claim director"
+	}, {
+		"job": "claim examiner"
+	}, {
+		"job": "claim investigator"
+	}, {
+		"job": "claim manager"
+	}, {
+		"job": "claim representative"
+	}, {
+		"job": "claim representative associate"
+	}, {
+		"job": "claim specialist"
+	}, {
+		"job": "claim supervisor"
+	}, {
+		"job": "claim worker"
+	}, {
+		"job": "classroom teacher"
+	}, {
+		"job": "clerical assistant"
+	}, {
+		"job": "clerical associate"
+	}, {
+		"job": "clerical clerk"
+	}, {
+		"job": "clerical specialist"
+	}, {
+		"job": "clerical technician"
+	}, {
+		"job": "clerk"
+	}, {
+		"job": "clerk typist"
+	}, {
+		"job": "client relation manager"
+	}, {
+		"job": "client relation specialist"
+	}, {
+		"job": "clinical assistant"
+	}, {
+		"job": "clinical associate"
+	}, {
+		"job": "clinical consultant"
+	}, {
+		"job": "clinical coordinator"
+	}, {
+		"job": "clinical counselor"
+	}, {
+		"job": "clinical data analyst"
+	}, {
+		"job": "clinical data assistant"
+	}, {
+		"job": "clinical dietitian"
+	}, {
+		"job": "clinical director"
+	}, {
+		"job": "clinical documentation specialist"
+	}, {
+		"job": "clinical educator"
+	}, {
+		"job": "clinical laboratory scientist"
+	}, {
+		"job": "clinical laboratory technician"
+	}, {
+		"job": "clinical laboratory technologist"
+	}, {
+		"job": "clinical manager"
+	}, {
+		"job": "clinical nurse"
+	}, {
+		"job": "clinical nurse educator"
+	}, {
+		"job": "clinical nurse specialist"
+	}, {
+		"job": "clinical pharmacist"
+	}, {
+		"job": "clinical psychologist"
+	}, {
+		"job": "clinical registered nurse"
+	}, {
+		"job": "clinical research assistant"
+	}, {
+		"job": "clinical research associate"
+	}, {
+		"job": "clinical research coordinator"
+	}, {
+		"job": "clinical research manager"
+	}, {
+		"job": "clinical research nurse"
+	}, {
+		"job": "clinical research specialist"
+	}, {
+		"job": "clinical specialist"
+	}, {
+		"job": "clinical supervisor"
+	}, {
+		"job": "clinical technician"
+	}, {
+		"job": "clinical therapist"
+	}, {
+		"job": "clinical trainer"
+	}, {
+		"job": "clinician"
+	}, {
+		"job": "cmm developer"
+	}, {
+		"job": "cmm inspector"
+	}, {
+		"job": "cmm operator"
+	}, {
+		"job": "cna"
+	}, {
+		"job": "cnc developer"
+	}, {
+		"job": "cnc lathe machinist"
+	}, {
+		"job": "cnc lathe operator"
+	}, {
+		"job": "cnc machine operator"
+	}, {
+		"job": "cnc machinist"
+	}, {
+		"job": "cnc mill machinist"
+	}, {
+		"job": "cnc operator"
+	}, {
+		"job": "cnc programmer"
+	}, {
+		"job": "cobol developer"
+	}, {
+		"job": "cognos administrator"
+	}, {
+		"job": "cognos analyst"
+	}, {
+		"job": "cognos consultant"
+	}, {
+		"job": "cognos developer"
+	}, {
+		"job": "collection agent"
+	}, {
+		"job": "collection analyst"
+	}, {
+		"job": "collection assistant"
+	}, {
+		"job": "collection associate"
+	}, {
+		"job": "collection clerk"
+	}, {
+		"job": "collection coordinator"
+	}, {
+		"job": "collection director"
+	}, {
+		"job": "collection manager"
+	}, {
+		"job": "collection representative"
+	}, {
+		"job": "collection specialist"
+	}, {
+		"job": "collection supervisor"
+	}, {
+		"job": "collector"
+	}, {
+		"job": "college instructor"
+	}, {
+		"job": "collision technician"
+	}, {
+		"job": "combat engineer"
+	}, {
+		"job": "commercial license driver"
+	}, {
+		"job": "commercial real estate broker"
+	}, {
+		"job": "commission analyst"
+	}, {
+		"job": "commission analyst"
+	}, {
+		"job": "commission engineer"
+	}, {
+		"job": "commission officer"
+	}, {
+		"job": "commodity buyer"
+	}, {
+		"job": "community associate"
+	}, {
+		"job": "community coordinator"
+	}, {
+		"job": "community development director"
+	}, {
+		"job": "community health nurse"
+	}, {
+		"job": "community leader"
+	}, {
+		"job": "community manager"
+	}, {
+		"job": "community outreach coordinator"
+	}, {
+		"job": "community representative"
+	}, {
+		"job": "community service associate"
+	}, {
+		"job": "community service director"
+	}, {
+		"job": "community service officer"
+	}, {
+		"job": "community worker"
+	}, {
+		"job": "compensation analyst"
+	}, {
+		"job": "compensation consultant"
+	}, {
+		"job": "compensation manager"
+	}, {
+		"job": "compensation specialist"
+	}, {
+		"job": "compensation worker"
+	}, {
+		"job": "compliance analyst"
+	}, {
+		"job": "compliance officer"
+	}, {
+		"job": "compressor technician"
+	}, {
+		"job": "computer developer"
+	}, {
+		"job": "computer engineer"
+	}, {
+		"job": "computer operator"
+	}, {
+		"job": "computer repair technician"
+	}, {
+		"job": "computer support technician"
+	}, {
+		"job": "computer system administrator"
+	}, {
+		"job": "computer system analyst"
+	}, {
+		"job": "computer system specialist"
+	}, {
+		"job": "computer system technician"
+	}, {
+		"job": "computer technician"
+	}, {
+		"job": "concrete worker"
+	}, {
+		"job": "construction assistant"
+	}, {
+		"job": "construction coordinator"
+	}, {
+		"job": "construction engineer"
+	}, {
+		"job": "construction estimator"
+	}, {
+		"job": "construction foreperson"
+	}, {
+		"job": "construction inspector"
+	}, {
+		"job": "construction laborer"
+	}, {
+		"job": "construction manager"
+	}, {
+		"job": "construction project manager"
+	}, {
+		"job": "construction representative"
+	}, {
+		"job": "construction scheduler"
+	}, {
+		"job": "construction superintendent"
+	}, {
+		"job": "construction supervisor"
+	}, {
+		"job": "construction technician"
+	}, {
+		"job": "construction worker"
+	}, {
+		"job": "content editor"
+	}, {
+		"job": "content writer"
+	}, {
+		"job": "contract accountant"
+	}, {
+		"job": "contract administrator"
+	}, {
+		"job": "contract analyst"
+	}, {
+		"job": "contract attorney"
+	}, {
+		"job": "contract coordinator"
+	}, {
+		"job": "contract director"
+	}, {
+		"job": "contract manager"
+	}, {
+		"job": "contract specialist"
+	}, {
+		"job": "control engineer"
+	}, {
+		"job": "control system engineer"
+	}, {
+		"job": "cook"
+	}, {
+		"job": "coordinator registered nurse"
+	}, {
+		"job": "copy assistant"
+	}, {
+		"job": "copy clerk"
+	}, {
+		"job": "copywriter"
+	}, {
+		"job": "core driller"
+	}, {
+		"job": "corporate analyst"
+	}, {
+		"job": "corporate associate"
+	}, {
+		"job": "corporate consultant"
+	}, {
+		"job": "corporate coordinator"
+	}, {
+		"job": "corporate executive"
+	}, {
+		"job": "corporate legal secretary"
+	}, {
+		"job": "corporate manager"
+	}, {
+		"job": "corporate recruiter"
+	}, {
+		"job": "corporate representative"
+	}, {
+		"job": "corporate specialist"
+	}, {
+		"job": "corporate trainer"
+	}, {
+		"job": "correctional officer"
+	}, {
+		"job": "corrosion engineer"
+	}, {
+		"job": "corrosion technician"
+	}, {
+		"job": "cosmetic advisor"
+	}, {
+		"job": "cosmetic consultant"
+	}, {
+		"job": "cosmetic manager"
+	}, {
+		"job": "cosmetologist"
+	}, {
+		"job": "cosmetology instructor"
+	}, {
+		"job": "cost accountant"
+	}, {
+		"job": "cost accounting manager"
+	}, {
+		"job": "cost analyst"
+	}, {
+		"job": "cost engineer"
+	}, {
+		"job": "cost estimator"
+	}, {
+		"job": "costume designer"
+	}, {
+		"job": "counselor"
+	}, {
+		"job": "courier"
+	}, {
+		"job": "courier driver"
+	}, {
+		"job": "course developer"
+	}, {
+		"job": "course instructor"
+	}, {
+		"job": "courseware developer"
+	}, {
+		"job": "court clerk"
+	}, {
+		"job": "court reporter"
+	}, {
+		"job": "cpc coder"
+	}, {
+		"job": "crane operator"
+	}, {
+		"job": "crane technician"
+	}, {
+		"job": "credit analyst"
+	}, {
+		"job": "credit assistant"
+	}, {
+		"job": "credit collection manager"
+	}, {
+		"job": "credit manager"
+	}, {
+		"job": "credit officer"
+	}, {
+		"job": "criminal justice associate"
+	}, {
+		"job": "criminal justice instructor"
+	}, {
+		"job": "critical care director"
+	}, {
+		"job": "critical care nurse"
+	}, {
+		"job": "critical care technician"
+	}, {
+		"job": "crm analyst"
+	}, {
+		"job": "crm consultant"
+	}, {
+		"job": "crm developer"
+	}, {
+		"job": "crm manager"
+	}, {
+		"job": "curriculum coordinator"
+	}, {
+		"job": "curriculum developer"
+	}, {
+		"job": "curriculum director"
+	}, {
+		"job": "custodian"
+	}, {
+		"job": "customer account manager"
+	}, {
+		"job": "customer account representative"
+	}, {
+		"job": "customer account specialist"
+	}, {
+		"job": "customer care agent"
+	}, {
+		"job": "customer care assistant"
+	}, {
+		"job": "customer care associate"
+	}, {
+		"job": "customer care manager"
+	}, {
+		"job": "customer care professional"
+	}, {
+		"job": "customer care representative"
+	}, {
+		"job": "customer care specialist"
+	}, {
+		"job": "customer care supervisor"
+	}, {
+		"job": "customer relation manager"
+	}, {
+		"job": "customer relation representative"
+	}, {
+		"job": "customer relation specialist"
+	}, {
+		"job": "customer service administrative assistant"
+	}, {
+		"job": "customer service administrator"
+	}, {
+		"job": "customer service advisor"
+	}, {
+		"job": "customer service agent"
+	}, {
+		"job": "customer service analyst"
+	}, {
+		"job": "customer service assistant"
+	}, {
+		"job": "customer service associate"
+	}, {
+		"job": "customer service call center representative"
+	}, {
+		"job": "customer service clerk"
+	}, {
+		"job": "customer service consultant"
+	}, {
+		"job": "customer service coordinator"
+	}, {
+		"job": "customer service csr representative"
+	}, {
+		"job": "customer service director"
+	}, {
+		"job": "customer service driver"
+	}, {
+		"job": "customer service leader"
+	}, {
+		"job": "customer service manager"
+	}, {
+		"job": "customer service professional"
+	}, {
+		"job": "customer service receptionist"
+	}, {
+		"job": "customer service representative"
+	}, {
+		"job": "customer service representative driver"
+	}, {
+		"job": "customer service specialist"
+	}, {
+		"job": "customer service supervisor"
+	}, {
+		"job": "customer service technician"
+	}, {
+		"job": "customer support advisor"
+	}, {
+		"job": "customer support agent"
+	}, {
+		"job": "customer support analyst"
+	}, {
+		"job": "customer support engineer"
+	}, {
+		"job": "customer support manager"
+	}, {
+		"job": "customer support representative"
+	}, {
+		"job": "customer support specialist"
+	}, {
+		"job": "customer support supervisor"
+	}, {
+		"job": "customer support technician"
+	}, {
+		"job": "cut machine operator"
+	}, {
+		"job": "damage adjuster"
+	}, {
+		"job": "dancer"
+	}, {
+		"job": "data analyst"
+	}, {
+		"job": "data architect"
+	}, {
+		"job": "data developer"
+	}, {
+		"job": "data report analyst"
+	}, {
+		"job": "database administrator"
+	}, {
+		"job": "database analyst"
+	}, {
+		"job": "database architect"
+	}, {
+		"job": "database developer"
+	}, {
+		"job": "database engineer"
+	}, {
+		"job": "database manager"
+	}, {
+		"job": "database specialist"
+	}, {
+		"job": "database sql developer"
+	}, {
+		"job": "data-entry associate"
+	}, {
+		"job": "data-entry clerk"
+	}, {
+		"job": "data-entry operator"
+	}, {
+		"job": "data-entry representative"
+	}, {
+		"job": "data-entry specialist"
+	}, {
+		"job": "data-entry technician"
+	}, {
+		"job": "daycare director"
+	}, {
+		"job": "dba"
+	}, {
+		"job": "defense attorney"
+	}, {
+		"job": "delivery cdl driver"
+	}, {
+		"job": "delivery contractor"
+	}, {
+		"job": "delivery courier"
+	}, {
+		"job": "delivery director"
+	}, {
+		"job": "delivery driver"
+	}, {
+		"job": "delivery manager"
+	}, {
+		"job": "delivery merchandiser"
+	}, {
+		"job": "delivery personal driver"
+	}, {
+		"job": "delivery representative"
+	}, {
+		"job": "delivery specialist"
+	}, {
+		"job": "delivery supervisor"
+	}, {
+		"job": "delivery technician"
+	}, {
+		"job": "demonstrator"
+	}, {
+		"job": "dental assistant"
+	}, {
+		"job": "dental associate"
+	}, {
+		"job": "dental coordinator"
+	}, {
+		"job": "dental hygienist"
+	}, {
+		"job": "dental manager"
+	}, {
+		"job": "dental professional"
+	}, {
+		"job": "dental receptionist"
+	}, {
+		"job": "dental technician"
+	}, {
+		"job": "dentist"
+	}, {
+		"job": "deputy director"
+	}, {
+		"job": "deputy manager"
+	}, {
+		"job": "dermatologist"
+	}, {
+		"job": "design engineer"
+	}, {
+		"job": "design instructor"
+	}, {
+		"job": "desk agent"
+	}, {
+		"job": "desk clerk"
+	}, {
+		"job": "desk manager"
+	}, {
+		"job": "desk receptionist"
+	}, {
+		"job": "desk representative"
+	}, {
+		"job": "desktop support analyst"
+	}, {
+		"job": "desktop support engineer"
+	}, {
+		"job": "desktop support specialist"
+	}, {
+		"job": "desktop support technician"
+	}, {
+		"job": "detention officer"
+	}, {
+		"job": "development chemist"
+	}, {
+		"job": "diagnostic medical sonographer"
+	}, {
+		"job": "dialysis nurse"
+	}, {
+		"job": "dialysis technician"
+	}, {
+		"job": "die maker"
+	}, {
+		"job": "diesel mechanic"
+	}, {
+		"job": "diesel technician"
+	}, {
+		"job": "dietary aide"
+	}, {
+		"job": "dietary assistant"
+	}, {
+		"job": "dietary cook"
+	}, {
+		"job": "dietary manager"
+	}, {
+		"job": "dietary supervisor"
+	}, {
+		"job": "dietetic technician"
+	}, {
+		"job": "dietician"
+	}, {
+		"job": "dietitian"
+	}, {
+		"job": "digital design engineer"
+	}, {
+		"job": "dining room manager"
+	}, {
+		"job": "director registered nurse"
+	}, {
+		"job": "disc jockey"
+	}, {
+		"job": "dishwasher"
+	}, {
+		"job": "dispatch manager"
+	}, {
+		"job": "dispatch supervisor"
+	}, {
+		"job": "dispatcher"
+	}, {
+		"job": "distribution manager"
+	}, {
+		"job": "distribution supervisor"
+	}, {
+		"job": "district attorney"
+	}, {
+		"job": "dj"
+	}, {
+		"job": "dock manager"
+	}, {
+		"job": "dock supervisor"
+	}, {
+		"job": "dock worker"
+	}, {
+		"job": "doctor"
+	}, {
+		"job": "document clerk"
+	}, {
+		"job": "dog groomer"
+	}, {
+		"job": "dog handler"
+	}, {
+		"job": "dog trainer"
+	}, {
+		"job": "door service technician"
+	}, {
+		"job": "doorman"
+	}, {
+		"job": "dosimetrist"
+	}, {
+		"job": "drafter"
+	}, {
+		"job": "draftsman"
+	}, {
+		"job": "drill engineer"
+	}, {
+		"job": "driver"
+	}, {
+		"job": "drywall finisher"
+	}, {
+		"job": "dsp engineer"
+	}, {
+		"job": "early childhood director"
+	}, {
+		"job": "echo technologist"
+	}, {
+		"job": "echocardiographer"
+	}, {
+		"job": "economic analyst"
+	}, {
+		"job": "economic director"
+	}, {
+		"job": "economist"
+	}, {
+		"job": "editor"
+	}, {
+		"job": "editorial assistant"
+	}, {
+		"job": "education coordinator"
+	}, {
+		"job": "education counselor"
+	}, {
+		"job": "education director"
+	}, {
+		"job": "education instructor"
+	}, {
+		"job": "education specialist"
+	}, {
+		"job": "education teacher"
+	}, {
+		"job": "educator"
+	}, {
+		"job": "eeg technician"
+	}, {
+		"job": "eeg technologist"
+	}, {
+		"job": "ekg technician"
+	}, {
+		"job": "electrical design engineer"
+	}, {
+		"job": "electrical drafter"
+	}, {
+		"job": "electrical engineer"
+	}, {
+		"job": "electrical power engineer"
+	}, {
+		"job": "electrician"
+	}, {
+		"job": "electrician helper"
+	}, {
+		"job": "electrician technician"
+	}, {
+		"job": "electro mechanical assembler"
+	}, {
+		"job": "electro mechanical technician"
+	}, {
+		"job": "electromechanical assembler"
+	}, {
+		"job": "electromechanical technician"
+	}, {
+		"job": "electronic assembler"
+	}, {
+		"job": "electronic engineer"
+	}, {
+		"job": "electronic system technician"
+	}, {
+		"job": "electronic technician"
+	}, {
+		"job": "electronic test technician"
+	}, {
+		"job": "embedded developer"
+	}, {
+		"job": "embedded engineer"
+	}, {
+		"job": "embosser"
+	}, {
+		"job": "embroidery supervisor"
+	}, {
+		"job": "emergency department director"
+	}, {
+		"job": "emergency department manager"
+	}, {
+		"job": "emergency department nurse"
+	}, {
+		"job": "emergency department technician"
+	}, {
+		"job": "emergency manager"
+	}, {
+		"job": "emergency medical technician"
+	}, {
+		"job": "employee relation manager"
+	}, {
+		"job": "employee relation specialist"
+	}, {
+		"job": "emt"
+	}, {
+		"job": "endocrinologist"
+	}, {
+		"job": "energy engineer"
+	}, {
+		"job": "engineer project manager"
+	}, {
+		"job": "engineer, unclassified"
+	}, {
+		"job": "engineering director"
+	}, {
+		"job": "engineering manager"
+	}, {
+		"job": "engineering specialist"
+	}, {
+		"job": "engineering technician"
+	}, {
+		"job": "english instructor"
+	}, {
+		"job": "english teacher"
+	}, {
+		"job": "engraver"
+	}, {
+		"job": "enrollment advisor"
+	}, {
+		"job": "enrollment counselor"
+	}, {
+		"job": "enrollment manager"
+	}, {
+		"job": "enrollment representative"
+	}, {
+		"job": "enrollment specialist"
+	}, {
+		"job": "enterprise manager"
+	}, {
+		"job": "entry clerk"
+	}, {
+		"job": "environmental associate"
+	}, {
+		"job": "environmental consultant"
+	}, {
+		"job": "environmental coordinator"
+	}, {
+		"job": "environmental director"
+	}, {
+		"job": "environmental engineer"
+	}, {
+		"job": "environmental manager"
+	}, {
+		"job": "environmental planner"
+	}, {
+		"job": "environmental project manager"
+	}, {
+		"job": "environmental scientist"
+	}, {
+		"job": "environmental specialist"
+	}, {
+		"job": "environmental supervisor"
+	}, {
+		"job": "environmental technician"
+	}, {
+		"job": "equipment driver"
+	}, {
+		"job": "equity analyst"
+	}, {
+		"job": "equity trader"
+	}, {
+		"job": "er nurse"
+	}, {
+		"job": "er technician"
+	}, {
+		"job": "erp business analyst"
+	}, {
+		"job": "erp project manager"
+	}, {
+		"job": "escrow assistant"
+	}, {
+		"job": "escrow officer"
+	}, {
+		"job": "esl instructor"
+	}, {
+		"job": "essbase developer"
+	}, {
+		"job": "esthetician"
+	}, {
+		"job": "estimation manager"
+	}, {
+		"job": "estimator"
+	}, {
+		"job": "estimator manager"
+	}, {
+		"job": "etl architect"
+	}, {
+		"job": "etl consultant"
+	}, {
+		"job": "etl developer"
+	}, {
+		"job": "etl informatica developer"
+	}, {
+		"job": "event coordinator"
+	}, {
+		"job": "event director"
+	}, {
+		"job": "event manager"
+	}, {
+		"job": "event planner"
+	}, {
+		"job": "event representative"
+	}, {
+		"job": "event specialist"
+	}, {
+		"job": "executive administrative assistant"
+	}, {
+		"job": "executive assistant"
+	}, {
+		"job": "executive chef"
+	}, {
+		"job": "executive housekeeper"
+	}, {
+		"job": "executive office manager"
+	}, {
+		"job": "executive recruiter"
+	}, {
+		"job": "executive secretary"
+	}, {
+		"job": "executive sous chef"
+	}, {
+		"job": "exercise physiologist"
+	}, {
+		"job": "exercise specialist"
+	}, {
+		"job": "export coordinator"
+	}, {
+		"job": "export specialist"
+	}, {
+		"job": "external auditor"
+	}, {
+		"job": "facility coordinator"
+	}, {
+		"job": "facility director"
+	}, {
+		"job": "facility engineer"
+	}, {
+		"job": "facility maintenance manager"
+	}, {
+		"job": "facility manager"
+	}, {
+		"job": "facility service associate"
+	}, {
+		"job": "facility service manager"
+	}, {
+		"job": "facility specialist"
+	}, {
+		"job": "facility supervisor"
+	}, {
+		"job": "facility technician"
+	}, {
+		"job": "faculty instructor"
+	}, {
+		"job": "failure analysis engineer"
+	}, {
+		"job": "family counselor"
+	}, {
+		"job": "family medicine physician"
+	}, {
+		"job": "family nurse"
+	}, {
+		"job": "family nurse practitioner"
+	}, {
+		"job": "family physician"
+	}, {
+		"job": "family therapist"
+	}, {
+		"job": "farm manager"
+	}, {
+		"job": "farm supervisor"
+	}, {
+		"job": "farm worker"
+	}, {
+		"job": "farmer"
+	}, {
+		"job": "fashion designer"
+	}, {
+		"job": "fast food manager"
+	}, {
+		"job": "fha underwriter"
+	}, {
+		"job": "field representative, unclassified"
+	}, {
+		"job": "field sales manager"
+	}, {
+		"job": "field sales representative"
+	}, {
+		"job": "field technician"
+	}, {
+		"job": "file clerk"
+	}, {
+		"job": "file receptionist"
+	}, {
+		"job": "film editor"
+	}, {
+		"job": "finance accountant"
+	}, {
+		"job": "finance accounting manager"
+	}, {
+		"job": "finance advisor"
+	}, {
+		"job": "finance analysis director"
+	}, {
+		"job": "finance analyst"
+	}, {
+		"job": "finance assistant"
+	}, {
+		"job": "finance associate"
+	}, {
+		"job": "finance consultant"
+	}, {
+		"job": "finance controller"
+	}, {
+		"job": "finance coordinator"
+	}, {
+		"job": "finance counselor"
+	}, {
+		"job": "finance manager"
+	}, {
+		"job": "finance officer"
+	}, {
+		"job": "finance professional"
+	}, {
+		"job": "finance report accountant"
+	}, {
+		"job": "finance report analyst"
+	}, {
+		"job": "finance representative"
+	}, {
+		"job": "finance specialist"
+	}, {
+		"job": "finance supervisor"
+	}, {
+		"job": "finance system analyst"
+	}, {
+		"job": "finance system manager"
+	}, {
+		"job": "financial administrator"
+	}, {
+		"job": "financial advisor"
+	}, {
+		"job": "financial analysis manager"
+	}, {
+		"job": "financial analyst"
+	}, {
+		"job": "financial auditor"
+	}, {
+		"job": "financial business analyst"
+	}, {
+		"job": "financial collecty"
+	}, {
+		"job": "financial counselor"
+	}, {
+		"job": "financial developer"
+	}, {
+		"job": "financial director"
+	}, {
+		"job": "financial engineer"
+	}, {
+		"job": "financial executive"
+	}, {
+		"job": "financial manager"
+	}, {
+		"job": "financial planner"
+	}, {
+		"job": "financial project manager"
+	}, {
+		"job": "financial reporting director"
+	}, {
+		"job": "financial reporting manager"
+	}, {
+		"job": "fire engineer"
+	}, {
+		"job": "fire fighter"
+	}, {
+		"job": "fire inspector"
+	}, {
+		"job": "fire investigator"
+	}, {
+		"job": "fire protectiom engineer"
+	}, {
+		"job": "fire technician"
+	}, {
+		"job": "firefighter"
+	}, {
+		"job": "fireman"
+	}, {
+		"job": "firewall engineer"
+	}, {
+		"job": "firmware engineer"
+	}, {
+		"job": "fitness coach"
+	}, {
+		"job": "fitness director"
+	}, {
+		"job": "fitness instructor"
+	}, {
+		"job": "fitness manager"
+	}, {
+		"job": "fitness specialist"
+	}, {
+		"job": "flash designer"
+	}, {
+		"job": "flash developer"
+	}, {
+		"job": "flatbed driver"
+	}, {
+		"job": "flight attendant"
+	}, {
+		"job": "flight engineer"
+	}, {
+		"job": "floor manager"
+	}, {
+		"job": "floor supervisor"
+	}, {
+		"job": "floor technician"
+	}, {
+		"job": "floral designer"
+	}, {
+		"job": "floral manager"
+	}, {
+		"job": "florist"
+	}, {
+		"job": "food cook"
+	}, {
+		"job": "food director"
+	}, {
+		"job": "food handler"
+	}, {
+		"job": "food manager"
+	}, {
+		"job": "food production manager"
+	}, {
+		"job": "food production worker"
+	}, {
+		"job": "food service assistant"
+	}, {
+		"job": "food service director"
+	}, {
+		"job": "food service manager"
+	}, {
+		"job": "food service specialist"
+	}, {
+		"job": "food service supervisor"
+	}, {
+		"job": "food service team member"
+	}, {
+		"job": "food service worker"
+	}, {
+		"job": "football coach"
+	}, {
+		"job": "forensic engineer"
+	}, {
+		"job": "forensic scientist"
+	}, {
+		"job": "forestry technician"
+	}, {
+		"job": "fork lift driver"
+	}, {
+		"job": "fork lift operator"
+	}, {
+		"job": "forklift driver"
+	}, {
+		"job": "forklift mechanic"
+	}, {
+		"job": "forklift operator"
+	}, {
+		"job": "franchise business consultant"
+	}, {
+		"job": "franchise consultant"
+	}, {
+		"job": "franchise manager"
+	}, {
+		"job": "freight agent"
+	}, {
+		"job": "freight broker"
+	}, {
+		"job": "freight handler"
+	}, {
+		"job": "front desk agent"
+	}, {
+		"job": "front desk clerk"
+	}, {
+		"job": "front desk coordinator"
+	}, {
+		"job": "front desk manager"
+	}, {
+		"job": "front desk receptionist"
+	}, {
+		"job": "front desk representative"
+	}, {
+		"job": "front desk supervisor"
+	}, {
+		"job": "fuel driver"
+	}, {
+		"job": "fuel manager"
+	}, {
+		"job": "fuel technician"
+	}, {
+		"job": "fundraising coordinator"
+	}, {
+		"job": "fundraising director"
+	}, {
+		"job": "funeral director"
+	}, {
+		"job": "game advisor"
+	}, {
+		"job": "game designer"
+	}, {
+		"job": "game developer"
+	}, {
+		"job": "game manager"
+	}, {
+		"job": "game supervisor"
+	}, {
+		"job": "game technician"
+	}, {
+		"job": "game tester"
+	}, {
+		"job": "gardener"
+	}, {
+		"job": "gas technician"
+	}, {
+		"job": "general contractor"
+	}, {
+		"job": "general counsel assistant"
+	}, {
+		"job": "general counsel associate"
+	}, {
+		"job": "general laborer"
+	}, {
+		"job": "general manager"
+	}, {
+		"job": "geologic technician"
+	}, {
+		"job": "geologist"
+	}, {
+		"job": "geophysicist"
+	}, {
+		"job": "geotechnical engineer"
+	}, {
+		"job": "geriatric nursing assistant"
+	}, {
+		"job": "gis analyst"
+	}, {
+		"job": "gis developer"
+	}, {
+		"job": "gis engineer"
+	}, {
+		"job": "gis manager"
+	}, {
+		"job": "gis specialist"
+	}, {
+		"job": "gis technician"
+	}, {
+		"job": "golf assistant"
+	}, {
+		"job": "golf manager"
+	}, {
+		"job": "government administrator"
+	}, {
+		"job": "government contractor"
+	}, {
+		"job": "government director"
+	}, {
+		"job": "government manager"
+	}, {
+		"job": "government specialist"
+	}, {
+		"job": "grade teacher"
+	}, {
+		"job": "graduate nurse"
+	}, {
+		"job": "graduate research assistant"
+	}, {
+		"job": "graphic artist"
+	}, {
+		"job": "graphic design specialist"
+	}, {
+		"job": "graphic designer"
+	}, {
+		"job": "greeter"
+	}, {
+		"job": "grinder operator"
+	}, {
+		"job": "grocery clerk"
+	}, {
+		"job": "grocery manager"
+	}, {
+		"job": "groundskeeper"
+	}, {
+		"job": "guest service associate"
+	}, {
+		"job": "gynecologist"
+	}, {
+		"job": "hairdresser"
+	}, {
+		"job": "hairstylist"
+	}, {
+		"job": "hardware engineer"
+	}, {
+		"job": "hardware support technician"
+	}, {
+		"job": "hardware technician"
+	}, {
+		"job": "hazardous material technician"
+	}, {
+		"job": "hazmat driver"
+	}, {
+		"job": "hazmat technician"
+	}, {
+		"job": "health aide"
+	}, {
+		"job": "health associate"
+	}, {
+		"job": "health center manager"
+	}, {
+		"job": "health coach"
+	}, {
+		"job": "health coordinator"
+	}, {
+		"job": "health director"
+	}, {
+		"job": "health educator"
+	}, {
+		"job": "health nurse"
+	}, {
+		"job": "health professional"
+	}, {
+		"job": "health registered nurse"
+	}, {
+		"job": "health service administrator"
+	}, {
+		"job": "health service director"
+	}, {
+		"job": "health specialist"
+	}, {
+		"job": "health technician"
+	}, {
+		"job": "healthcare business analyst"
+	}, {
+		"job": "healthcare project manager"
+	}, {
+		"job": "hearing aid specialist"
+	}, {
+		"job": "heavy equipment mechanic"
+	}, {
+		"job": "heavy equipment operator"
+	}, {
+		"job": "help desk administrator"
+	}, {
+		"job": "help desk agent"
+	}, {
+		"job": "help desk analyst"
+	}, {
+		"job": "help desk associate"
+	}, {
+		"job": "help desk engineer"
+	}, {
+		"job": "help desk manager"
+	}, {
+		"job": "help desk representative"
+	}, {
+		"job": "help desk specialist"
+	}, {
+		"job": "help desk supervisor"
+	}, {
+		"job": "help desk support analyst"
+	}, {
+		"job": "help desk support specialist"
+	}, {
+		"job": "help desk support technician"
+	}, {
+		"job": "help desk technician"
+	}, {
+		"job": "histology manager"
+	}, {
+		"job": "histology technician"
+	}, {
+		"job": "historian"
+	}, {
+		"job": "history instructor"
+	}, {
+		"job": "history teacher"
+	}, {
+		"job": "histotechnologist"
+	}, {
+		"job": "home builder"
+	}, {
+		"job": "home health administrator"
+	}, {
+		"job": "home health aide"
+	}, {
+		"job": "home health cna"
+	}, {
+		"job": "home health coordinator"
+	}, {
+		"job": "home health director"
+	}, {
+		"job": "home health manager"
+	}, {
+		"job": "home health registered nurse"
+	}, {
+		"job": "horse trainer"
+	}, {
+		"job": "hospice administrator"
+	}, {
+		"job": "hospice aide"
+	}, {
+		"job": "hospice coordinator"
+	}, {
+		"job": "hospice director"
+	}, {
+		"job": "hospice manager"
+	}, {
+		"job": "hospital nurse"
+	}, {
+		"job": "hospital pharmacist"
+	}, {
+		"job": "hotel director"
+	}, {
+		"job": "hotel general manager"
+	}, {
+		"job": "hotel manager"
+	}, {
+		"job": "housekeeper"
+	}, {
+		"job": "housekeeping aide"
+	}, {
+		"job": "housekeeping assistant"
+	}, {
+		"job": "housekeeping attendant"
+	}, {
+		"job": "housekeeping director"
+	}, {
+		"job": "housekeeping manager"
+	}, {
+		"job": "housekeeping supervisor"
+	}, {
+		"job": "hr administrator"
+	}, {
+		"job": "hr analyst"
+	}, {
+		"job": "hr assistant"
+	}, {
+		"job": "hr clerk"
+	}, {
+		"job": "hr consultant"
+	}, {
+		"job": "hr coordinator"
+	}, {
+		"job": "hr director"
+	}, {
+		"job": "hr generalist"
+	}, {
+		"job": "hr manager"
+	}, {
+		"job": "hr recruiter"
+	}, {
+		"job": "hr representative"
+	}, {
+		"job": "hr specialist"
+	}, {
+		"job": "hris analyst"
+	}, {
+		"job": "hris specialist"
+	}, {
+		"job": "human resources administrator"
+	}, {
+		"job": "human resources analyst"
+	}, {
+		"job": "human resources assistant"
+	}, {
+		"job": "human resources associate"
+	}, {
+		"job": "human resources clerk"
+	}, {
+		"job": "human resources coordinator"
+	}, {
+		"job": "human resources director"
+	}, {
+		"job": "human resources generalist"
+	}, {
+		"job": "human resources manager"
+	}, {
+		"job": "human resources recruiter"
+	}, {
+		"job": "human resources representative"
+	}, {
+		"job": "human resources specialist"
+	}, {
+		"job": "human resources supervisor"
+	}, {
+		"job": "human service specialist"
+	}, {
+		"job": "hvac engineer"
+	}, {
+		"job": "hvac instructor"
+	}, {
+		"job": "hvac manager"
+	}, {
+		"job": "hvac mechanic"
+	}, {
+		"job": "hvac technician"
+	}, {
+		"job": "hydraulic engineer"
+	}, {
+		"job": "hydrogeologist"
+	}, {
+		"job": "hygienist"
+	}, {
+		"job": "hyperion administrator"
+	}, {
+		"job": "hyperion analyst"
+	}, {
+		"job": "hyperion developer"
+	}, {
+		"job": "hyperion essbase developer"
+	}, {
+		"job": "icu nurse"
+	}, {
+		"job": "import coordinator"
+	}, {
+		"job": "import manager"
+	}, {
+		"job": "import specialist"
+	}, {
+		"job": "import/export agent"
+	}, {
+		"job": "import/export manager"
+	}, {
+		"job": "industrial designer"
+	}, {
+		"job": "industrial engineer"
+	}, {
+		"job": "industrial maintenance mechanic"
+	}, {
+		"job": "industrial maintenance technician"
+	}, {
+		"job": "industrial mechanic"
+	}, {
+		"job": "industrial sales representative"
+	}, {
+		"job": "infection nurse"
+	}, {
+		"job": "informatica developer"
+	}, {
+		"job": "informatica etl developer"
+	}, {
+		"job": "information technology business analyst"
+	}, {
+		"job": "information technology director"
+	}, {
+		"job": "information technology manager"
+	}, {
+		"job": "information technology project manager"
+	}, {
+		"job": "infrastructure analyst"
+	}, {
+		"job": "infrastructure architect"
+	}, {
+		"job": "infrastructure director"
+	}, {
+		"job": "infrastructure engineer"
+	}, {
+		"job": "infrastructure manager"
+	}, {
+		"job": "infusion nurse"
+	}, {
+		"job": "inside sales account executive"
+	}, {
+		"job": "inside sales account manager"
+	}, {
+		"job": "inside sales agent"
+	}, {
+		"job": "inside sales assistant"
+	}, {
+		"job": "inside sales associate"
+	}, {
+		"job": "inside sales coordinator"
+	}, {
+		"job": "inside sales director"
+	}, {
+		"job": "inside sales executive"
+	}, {
+		"job": "inside sales manager"
+	}, {
+		"job": "inside sales professional"
+	}, {
+		"job": "inside sales recruiter"
+	}, {
+		"job": "inside sales representative"
+	}, {
+		"job": "inside sales specialist"
+	}, {
+		"job": "inside sales supervisor"
+	}, {
+		"job": "installation coordinator"
+	}, {
+		"job": "installation manager"
+	}, {
+		"job": "installation specialist"
+	}, {
+		"job": "installation supervisor"
+	}, {
+		"job": "installation technician"
+	}, {
+		"job": "instructional designer"
+	}, {
+		"job": "instrument repair technician"
+	}, {
+		"job": "instrument technician"
+	}, {
+		"job": "insurance agent"
+	}, {
+		"job": "insurance broker"
+	}, {
+		"job": "insurance clerk"
+	}, {
+		"job": "insurance executive"
+	}, {
+		"job": "insurance sales agent"
+	}, {
+		"job": "insurance sales manager"
+	}, {
+		"job": "insurance sales representative"
+	}, {
+		"job": "insurance specialist"
+	}, {
+		"job": "insurance underwriter"
+	}, {
+		"job": "integration consultant"
+	}, {
+		"job": "intellectual property paralegal"
+	}, {
+		"job": "interior design consultant"
+	}, {
+		"job": "interior designer"
+	}, {
+		"job": "internal auditor"
+	}, {
+		"job": "internal control manager"
+	}, {
+		"job": "internal medicine physician"
+	}, {
+		"job": "internist"
+	}, {
+		"job": "inventory accountant"
+	}, {
+		"job": "inventory analyst"
+	}, {
+		"job": "inventory assistant"
+	}, {
+		"job": "inventory associate"
+	}, {
+		"job": "inventory auditor"
+	}, {
+		"job": "inventory clerk"
+	}, {
+		"job": "inventory control clerk"
+	}, {
+		"job": "inventory control coordinator"
+	}, {
+		"job": "inventory control manager"
+	}, {
+		"job": "inventory control specialist"
+	}, {
+		"job": "inventory control supervisor"
+	}, {
+		"job": "inventory coordinator"
+	}, {
+		"job": "inventory manager"
+	}, {
+		"job": "inventory representative"
+	}, {
+		"job": "inventory specialist"
+	}, {
+		"job": "inventory supervisor"
+	}, {
+		"job": "inventory technician"
+	}, {
+		"job": "investment advisor"
+	}, {
+		"job": "investment analyst"
+	}, {
+		"job": "investment associate"
+	}, {
+		"job": "investment consultant"
+	}, {
+		"job": "investment executive"
+	}, {
+		"job": "investment firm advisor"
+	}, {
+		"job": "investment manager"
+	}, {
+		"job": "iphone developer"
+	}, {
+		"job": "iron worker"
+	}, {
+		"job": "ironworker"
+	}, {
+		"job": "irrigation technician"
+	}, {
+		"job": "iv technician"
+	}, {
+		"job": "jailer"
+	}, {
+		"job": "janitor"
+	}, {
+		"job": "janitorial manager"
+	}, {
+		"job": "janitorial supervisor"
+	}, {
+		"job": "java architect"
+	}, {
+		"job": "java consultant"
+	}, {
+		"job": "java developer"
+	}, {
+		"job": "java engineer"
+	}, {
+		"job": "javascript developer"
+	}, {
+		"job": "jewelry associate"
+	}, {
+		"job": "jewelry consultant"
+	}, {
+		"job": "jewelry designer"
+	}, {
+		"job": "jewelry manager"
+	}, {
+		"job": "jewelry specialist"
+	}, {
+		"job": "journalist"
+	}, {
+		"job": "juris doctor"
+	}, {
+		"job": "kennel attendant"
+	}, {
+		"job": "key account executive"
+	}, {
+		"job": "key account manager"
+	}, {
+		"job": "kindergarten teacher"
+	}, {
+		"job": "kitchen crew members"
+	}, {
+		"job": "kitchen designer"
+	}, {
+		"job": "kitchen help"
+	}, {
+		"job": "kitchen helper"
+	}, {
+		"job": "kitchen manager"
+	}, {
+		"job": "kitchen staff"
+	}, {
+		"job": "kitchen supervisor"
+	}, {
+		"job": "labor relations manager"
+	}, {
+		"job": "laboratory analyst"
+	}, {
+		"job": "laboratory assistant"
+	}, {
+		"job": "laboratory associate"
+	}, {
+		"job": "laboratory director"
+	}, {
+		"job": "laboratory manager"
+	}, {
+		"job": "laboratory supervisor"
+	}, {
+		"job": "laboratory technician"
+	}, {
+		"job": "laboratory technologist"
+	}, {
+		"job": "lan administrator"
+	}, {
+		"job": "land surveyor"
+	}, {
+		"job": "landscape architect"
+	}, {
+		"job": "landscape designer"
+	}, {
+		"job": "landscape foreperson"
+	}, {
+		"job": "landscape laborer"
+	}, {
+		"job": "landscape manager"
+	}, {
+		"job": "landscape supervisor"
+	}, {
+		"job": "landscape technician"
+	}, {
+		"job": "landscaper"
+	}, {
+		"job": "language pathologist"
+	}, {
+		"job": "lathe machinist"
+	}, {
+		"job": "lathe operator"
+	}, {
+		"job": "law attorney"
+	}, {
+		"job": "law clerk"
+	}, {
+		"job": "law paralegal"
+	}, {
+		"job": "lead generation specialist"
+	}, {
+		"job": "lease agent"
+	}, {
+		"job": "lease manager"
+	}, {
+		"job": "legal assistant"
+	}, {
+		"job": "legal clerk"
+	}, {
+		"job": "legal paralegal"
+	}, {
+		"job": "legal secretary"
+	}, {
+		"job": "legislative assistant"
+	}, {
+		"job": "librarian"
+	}, {
+		"job": "library assistant"
+	}, {
+		"job": "library director"
+	}, {
+		"job": "licensed massage therapist"
+	}, {
+		"job": "licensed pharmacist"
+	}, {
+		"job": "licensed physical therapist"
+	}, {
+		"job": "licensed practical nurse"
+	}, {
+		"job": "licensed registered nurse"
+	}, {
+		"job": "licensed vocational nurse"
+	}, {
+		"job": "lifeguard"
+	}, {
+		"job": "limousine driver"
+	}, {
+		"job": "line cook"
+	}, {
+		"job": "linguist"
+	}, {
+		"job": "linux administrator"
+	}, {
+		"job": "linux developer"
+	}, {
+		"job": "linux engineer"
+	}, {
+		"job": "litigation associate"
+	}, {
+		"job": "litigation attorney"
+	}, {
+		"job": "litigation legal assistant"
+	}, {
+		"job": "litigation legal secretary"
+	}, {
+		"job": "litigation manager"
+	}, {
+		"job": "litigation paralegal"
+	}, {
+		"job": "litigation secretary"
+	}, {
+		"job": "litigation specialist"
+	}, {
+		"job": "load runner"
+	}, {
+		"job": "loan administrator"
+	}, {
+		"job": "loan analyst"
+	}, {
+		"job": "loan assistant"
+	}, {
+		"job": "loan associate"
+	}, {
+		"job": "loan auditor"
+	}, {
+		"job": "loan clerk"
+	}, {
+		"job": "loan closer"
+	}, {
+		"job": "loan consultant"
+	}, {
+		"job": "loan coordinator"
+	}, {
+		"job": "loan counselor"
+	}, {
+		"job": "loan document specialist"
+	}, {
+		"job": "loan documentation specialist"
+	}, {
+		"job": "loan manager"
+	}, {
+		"job": "loan mortgage officer"
+	}, {
+		"job": "loan officer"
+	}, {
+		"job": "loan origin officer"
+	}, {
+		"job": "loan representative"
+	}, {
+		"job": "loan specialist"
+	}, {
+		"job": "loan underwriter"
+	}, {
+		"job": "locksmith"
+	}, {
+		"job": "logistician"
+	}, {
+		"job": "logistics analyst"
+	}, {
+		"job": "logistics assistant"
+	}, {
+		"job": "logistics associate"
+	}, {
+		"job": "logistics clerk"
+	}, {
+		"job": "logistics coordinator"
+	}, {
+		"job": "logistics engineer"
+	}, {
+		"job": "logistics manager"
+	}, {
+		"job": "logistics specialist"
+	}, {
+		"job": "logistics supervisor"
+	}, {
+		"job": "loss mitigation specialist"
+	}, {
+		"job": "loss prevention agent"
+	}, {
+		"job": "loss prevention associate"
+	}, {
+		"job": "loss prevention manager"
+	}, {
+		"job": "lot attendant"
+	}, {
+		"job": "lpn"
+	}, {
+		"job": "lube technician"
+	}, {
+		"job": "lvn"
+	}, {
+		"job": "machine operator"
+	}, {
+		"job": "machinist"
+	}, {
+		"job": "macromedia director"
+	}, {
+		"job": "maid"
+	}, {
+		"job": "mail clerk"
+	}, {
+		"job": "mail handler"
+	}, {
+		"job": "mail room clerk"
+	}, {
+		"job": "mail room supervisor"
+	}, {
+		"job": "mailroom assistant"
+	}, {
+		"job": "mailroom clerk"
+	}, {
+		"job": "mailroom coordinator"
+	}, {
+		"job": "mailroom manager"
+	}, {
+		"job": "mailroom supervisor"
+	}, {
+		"job": "mainframe analyst"
+	}, {
+		"job": "mainframe developer"
+	}, {
+		"job": "maintenance assistant"
+	}, {
+		"job": "maintenance coordinator"
+	}, {
+		"job": "maintenance director"
+	}, {
+		"job": "maintenance electrician"
+	}, {
+		"job": "maintenance engineer"
+	}, {
+		"job": "maintenance manager"
+	}, {
+		"job": "maintenance mechanic"
+	}, {
+		"job": "maintenance planner"
+	}, {
+		"job": "maintenance specialist"
+	}, {
+		"job": "maintenance superintendent"
+	}, {
+		"job": "maintenance supervisor"
+	}, {
+		"job": "maintenance technician"
+	}, {
+		"job": "maintenance worker"
+	}, {
+		"job": "major account executive"
+	}, {
+		"job": "major account manager"
+	}, {
+		"job": "major account representative"
+	}, {
+		"job": "makeup artist"
+	}, {
+		"job": "mammography technician"
+	}, {
+		"job": "mammography technologist"
+	}, {
+		"job": "manager registered nurse"
+	}, {
+		"job": "manager salesperson"
+	}, {
+		"job": "manager, surgical services"
+	}, {
+		"job": "manicurist"
+	}, {
+		"job": "manufacturing analyst"
+	}, {
+		"job": "manufacturing associate"
+	}, {
+		"job": "manufacturing business analyst"
+	}, {
+		"job": "manufacturing coordinator"
+	}, {
+		"job": "manufacturing director"
+	}, {
+		"job": "manufacturing engineer"
+	}, {
+		"job": "manufacturing executive"
+	}, {
+		"job": "manufacturing leader"
+	}, {
+		"job": "manufacturing manager"
+	}, {
+		"job": "manufacturing operator"
+	}, {
+		"job": "manufacturing planner"
+	}, {
+		"job": "manufacturing project manager"
+	}, {
+		"job": "manufacturing specialist"
+	}, {
+		"job": "manufacturing supervisor"
+	}, {
+		"job": "manufacturing technician"
+	}, {
+		"job": "marine engineer"
+	}, {
+		"job": "marine mechanic"
+	}, {
+		"job": "marine technician"
+	}, {
+		"job": "market account manager"
+	}, {
+		"job": "market analyst"
+	}, {
+		"job": "market development manager"
+	}, {
+		"job": "market development representative"
+	}, {
+		"job": "market development specialist"
+	}, {
+		"job": "market director"
+	}, {
+		"job": "market leader"
+	}, {
+		"job": "market manager"
+	}, {
+		"job": "market research analyst"
+	}, {
+		"job": "market research assistant"
+	}, {
+		"job": "market research associate"
+	}, {
+		"job": "market research manager"
+	}, {
+		"job": "market sales manager"
+	}, {
+		"job": "marketing account executive"
+	}, {
+		"job": "marketing account manager"
+	}, {
+		"job": "marketing administrator"
+	}, {
+		"job": "marketing assistant"
+	}, {
+		"job": "marketing associate"
+	}, {
+		"job": "marketing consultant"
+	}, {
+		"job": "marketing coordinator"
+	}, {
+		"job": "marketing developer"
+	}, {
+		"job": "marketing director"
+	}, {
+		"job": "marketing executive"
+	}, {
+		"job": "marketing leader"
+	}, {
+		"job": "marketing manager"
+	}, {
+		"job": "marketing product manager"
+	}, {
+		"job": "marketing professional"
+	}, {
+		"job": "marketing program executive"
+	}, {
+		"job": "marketing program manager"
+	}, {
+		"job": "marketing representative"
+	}, {
+		"job": "marketing research analyst"
+	}, {
+		"job": "marketing sales leader"
+	}, {
+		"job": "marketing sales representative"
+	}, {
+		"job": "marketing specialist"
+	}, {
+		"job": "marketing strategic developer"
+	}, {
+		"job": "marriage family therapist"
+	}, {
+		"job": "massage therapist"
+	}, {
+		"job": "material handler"
+	}, {
+		"job": "materials engineer"
+	}, {
+		"job": "math instructor"
+	}, {
+		"job": "math teacher"
+	}, {
+		"job": "math tutor"
+	}, {
+		"job": "mathematical teacher"
+	}, {
+		"job": "mathematician"
+	}, {
+		"job": "mds nurse"
+	}, {
+		"job": "mechanic"
+	}, {
+		"job": "mechanic automotive technician"
+	}, {
+		"job": "mechanical assembler"
+	}, {
+		"job": "mechanical design engineer"
+	}, {
+		"job": "mechanical designer"
+	}, {
+		"job": "mechanical drafter"
+	}, {
+		"job": "mechanical engineer"
+	}, {
+		"job": "mechanical inspector"
+	}, {
+		"job": "mechanical pe engineer"
+	}, {
+		"job": "mechanical technician"
+	}, {
+		"job": "media relation coordinator"
+	}, {
+		"job": "media relation director"
+	}, {
+		"job": "medical administrative assistant"
+	}, {
+		"job": "medical assistant"
+	}, {
+		"job": "medical bill clerk"
+	}, {
+		"job": "medical bill manager"
+	}, {
+		"job": "medical bill specialist"
+	}, {
+		"job": "medical case manager"
+	}, {
+		"job": "medical certified assistant"
+	}, {
+		"job": "medical clerk"
+	}, {
+		"job": "medical coder"
+	}, {
+		"job": "medical coding specialist"
+	}, {
+		"job": "medical device manager"
+	}, {
+		"job": "medical director"
+	}, {
+		"job": "medical doctor"
+	}, {
+		"job": "medical engineer"
+	}, {
+		"job": "medical laboratory technician"
+	}, {
+		"job": "medical manager"
+	}, {
+		"job": "medical nurse"
+	}, {
+		"job": "medical office administrator"
+	}, {
+		"job": "medical office assistant"
+	}, {
+		"job": "medical office coordinator"
+	}, {
+		"job": "medical office manager"
+	}, {
+		"job": "medical office receptionist"
+	}, {
+		"job": "medical office specialist"
+	}, {
+		"job": "medical pediatric assistant"
+	}, {
+		"job": "medical phlebotomist"
+	}, {
+		"job": "medical physician"
+	}, {
+		"job": "medical receptionist"
+	}, {
+		"job": "medical record assistant"
+	}, {
+		"job": "medical record clerk"
+	}, {
+		"job": "medical record coordinator"
+	}, {
+		"job": "medical recruiter"
+	}, {
+		"job": "medical registered nurse"
+	}, {
+		"job": "medical sales representative"
+	}, {
+		"job": "medical secretary"
+	}, {
+		"job": "medical social worker"
+	}, {
+		"job": "medical sonographer"
+	}, {
+		"job": "medical surgery nurse"
+	}, {
+		"job": "medical technologist"
+	}, {
+		"job": "medical transcriptionist"
+	}, {
+		"job": "medical/dental/ins sales representative"
+	}, {
+		"job": "medicare specialist"
+	}, {
+		"job": "medication aide"
+	}, {
+		"job": "medicine physician"
+	}, {
+		"job": "meet coordinator"
+	}, {
+		"job": "mental health associate"
+	}, {
+		"job": "mental health clinician"
+	}, {
+		"job": "mental health coordinator"
+	}, {
+		"job": "mental health counselor"
+	}, {
+		"job": "mental health professional"
+	}, {
+		"job": "mental health specialist"
+	}, {
+		"job": "mental health technician"
+	}, {
+		"job": "mental health therapist"
+	}, {
+		"job": "mental health worker"
+	}, {
+		"job": "merchandising assistant"
+	}, {
+		"job": "merchandising coordinator"
+	}, {
+		"job": "merchandising manager"
+	}, {
+		"job": "merchandising representative"
+	}, {
+		"job": "merchandising specialist"
+	}, {
+		"job": "merchandising supervisor"
+	}, {
+		"job": "metal supervisor"
+	}, {
+		"job": "metallurgical engineer"
+	}, {
+		"job": "metallurgical technician"
+	}, {
+		"job": "meteorologist"
+	}, {
+		"job": "microbiologist"
+	}, {
+		"job": "microbiology technician"
+	}, {
+		"job": "microbiology technologist"
+	}, {
+		"job": "microstrategy developer"
+	}, {
+		"job": "microwave engineer"
+	}, {
+		"job": "microwave technician"
+	}, {
+		"job": "middle school principal"
+	}, {
+		"job": "middle school teacher"
+	}, {
+		"job": "midwife"
+	}, {
+		"job": "mig welder"
+	}, {
+		"job": "military analyst"
+	}, {
+		"job": "military police officer"
+	}, {
+		"job": "mill machinist"
+	}, {
+		"job": "mill operator"
+	}, {
+		"job": "mine manager"
+	}, {
+		"job": "miner"
+	}, {
+		"job": "mining engineer"
+	}, {
+		"job": "mobile application developer"
+	}, {
+		"job": "mobile developer"
+	}, {
+		"job": "mold maker"
+	}, {
+		"job": "mold operator"
+	}, {
+		"job": "mold supervisor"
+	}, {
+		"job": "mold technician"
+	}, {
+		"job": "molecular biologist"
+	}, {
+		"job": "mortgage analyst"
+	}, {
+		"job": "mortgage assistant"
+	}, {
+		"job": "mortgage banker"
+	}, {
+		"job": "mortgage branch manager"
+	}, {
+		"job": "mortgage broker"
+	}, {
+		"job": "mortgage closer"
+	}, {
+		"job": "mortgage collector"
+	}, {
+		"job": "mortgage consultant"
+	}, {
+		"job": "mortgage coordinator"
+	}, {
+		"job": "mortgage loan closer"
+	}, {
+		"job": "mortgage loan officer"
+	}, {
+		"job": "mortgage loan specialist"
+	}, {
+		"job": "mortgage loan underwriter"
+	}, {
+		"job": "mortgage manager"
+	}, {
+		"job": "mortgage professional"
+	}, {
+		"job": "mortgage specialist"
+	}, {
+		"job": "mortgage underwriter"
+	}, {
+		"job": "motor coach"
+	}, {
+		"job": "motorcycle mechanic"
+	}, {
+		"job": "motorcycle technician"
+	}, {
+		"job": "mri technician"
+	}, {
+		"job": "mri technologist"
+	}, {
+		"job": "ms sql dba"
+	}, {
+		"job": "multimedia designer"
+	}, {
+		"job": "multimedia journalist"
+	}, {
+		"job": "music director"
+	}, {
+		"job": "music teacher"
+	}, {
+		"job": "music therapist"
+	}, {
+		"job": "musician"
+	}, {
+		"job": "mysql developer"
+	}, {
+		"job": ".net architect"
+	}, {
+		"job": ".net developer"
+	}, {
+		"job": ".net engineer"
+	}, {
+		"job": ".net web developer"
+	}, {
+		"job": "nail technician"
+	}, {
+		"job": "nanny"
+	}, {
+		"job": "national account executive"
+	}, {
+		"job": "national account manager"
+	}, {
+		"job": "national sales director"
+	}, {
+		"job": "national sales executive"
+	}, {
+		"job": "national sales manager"
+	}, {
+		"job": "navy architect"
+	}, {
+		"job": "network administrator"
+	}, {
+		"job": "network analyst"
+	}, {
+		"job": "network architect"
+	}, {
+		"job": "network consultant"
+	}, {
+		"job": "network coordinator"
+	}, {
+		"job": "network director"
+	}, {
+		"job": "network engineer"
+	}, {
+		"job": "network engineer administrator"
+	}, {
+		"job": "network manager"
+	}, {
+		"job": "network security engineer"
+	}, {
+		"job": "network specialist"
+	}, {
+		"job": "network support technician"
+	}, {
+		"job": "network system administrator"
+	}, {
+		"job": "network technician"
+	}, {
+		"job": "neurologist"
+	}, {
+		"job": "news editor"
+	}, {
+		"job": "news leader"
+	}, {
+		"job": "night auditor"
+	}, {
+		"job": "non commission officer"
+	}, {
+		"job": "nonprofit manager"
+	}, {
+		"job": "nuclear engineer"
+	}, {
+		"job": "nuclear medicine technologist"
+	}, {
+		"job": "nurse"
+	}, {
+		"job": "nurse aide"
+	}, {
+		"job": "nurse assistant"
+	}, {
+		"job": "nurse case manager"
+	}, {
+		"job": "nurse clinical manager"
+	}, {
+		"job": "nurse clinician"
+	}, {
+		"job": "nurse educator"
+	}, {
+		"job": "nurse liaison"
+	}, {
+		"job": "nurse manager"
+	}, {
+		"job": "nurse prn"
+	}, {
+		"job": "nurse recruiter"
+	}, {
+		"job": "nurse specialist"
+	}, {
+		"job": "nurse supervisor"
+	}, {
+		"job": "nursing administrator"
+	}, {
+		"job": "nursing assistant"
+	}, {
+		"job": "nursing associate"
+	}, {
+		"job": "nursing cna"
+	}, {
+		"job": "nursing coordinator"
+	}, {
+		"job": "nursing home administrator"
+	}, {
+		"job": "nursing home assistant"
+	}, {
+		"job": "nursing instructor"
+	}, {
+		"job": "nursing manager"
+	}, {
+		"job": "nursing professional"
+	}, {
+		"job": "nursing registered nurse"
+	}, {
+		"job": "nursing supervisor"
+	}, {
+		"job": "nutrition assistant"
+	}, {
+		"job": "nutrition director"
+	}, {
+		"job": "nutrition educator"
+	}, {
+		"job": "nutrition manager"
+	}, {
+		"job": "nutrition specialist"
+	}, {
+		"job": "nutritionist"
+	}, {
+		"job": "ob technician"
+	}, {
+		"job": "obstetrician"
+	}, {
+		"job": "occupational health nurse"
+	}, {
+		"job": "occupational therapist"
+	}, {
+		"job": "office administrative assistant"
+	}, {
+		"job": "office administrator"
+	}, {
+		"job": "office assistant"
+	}, {
+		"job": "office clerk"
+	}, {
+		"job": "office executive"
+	}, {
+		"job": "office executive assistant"
+	}, {
+		"job": "office manager"
+	}, {
+		"job": "office manager assistant"
+	}, {
+		"job": "office medical assistant"
+	}, {
+		"job": "office receptionist"
+	}, {
+		"job": "office secretary"
+	}, {
+		"job": "officer security guard"
+	}, {
+		"job": "offset press operator"
+	}, {
+		"job": "oil technician"
+	}, {
+		"job": "oncologist"
+	}, {
+		"job": "oncology manager"
+	}, {
+		"job": "oncology nurse"
+	}, {
+		"job": "oncology pharmacist"
+	}, {
+		"job": "operating engineer"
+	}, {
+		"job": "operation engineer"
+	}, {
+		"job": "operation research analyst"
+	}, {
+		"job": "operations manager"
+	}, {
+		"job": "ophthalmic assistant"
+	}, {
+		"job": "ophthalmic technician"
+	}, {
+		"job": "optical engineer"
+	}, {
+		"job": "optician"
+	}, {
+		"job": "optometrist"
+	}, {
+		"job": "optometrist assistant"
+	}, {
+		"job": "optometry assistant"
+	}, {
+		"job": "optometry technician"
+	}, {
+		"job": "oracle analyst"
+	}, {
+		"job": "oracle architect"
+	}, {
+		"job": "oracle consultant"
+	}, {
+		"job": "oracle dba"
+	}, {
+		"job": "oracle dba developer"
+	}, {
+		"job": "oracle developer"
+	}, {
+		"job": "oracle manager"
+	}, {
+		"job": "oracle specialist"
+	}, {
+		"job": "oral surgeon"
+	}, {
+		"job": "order puller"
+	}, {
+		"job": "ordnance technician"
+	}, {
+		"job": "organic chemist"
+	}, {
+		"job": "orthodontic assistant"
+	}, {
+		"job": "orthodontic technician"
+	}, {
+		"job": "orthodontist"
+	}, {
+		"job": "orthodontist assistant"
+	}, {
+		"job": "otr driver"
+	}, {
+		"job": "outbound sales representative"
+	}, {
+		"job": "outside sales account executive"
+	}, {
+		"job": "outside sales account manager"
+	}, {
+		"job": "outside sales associate"
+	}, {
+		"job": "outside sales consultant"
+	}, {
+		"job": "outside sales executive"
+	}, {
+		"job": "outside sales inspector"
+	}, {
+		"job": "outside sales manager"
+	}, {
+		"job": "outside sales professional"
+	}, {
+		"job": "outside sales representative"
+	}, {
+		"job": "package handler"
+	}, {
+		"job": "packaging associate"
+	}, {
+		"job": "packaging engineer"
+	}, {
+		"job": "packaging manager"
+	}, {
+		"job": "packaging mechanic"
+	}, {
+		"job": "packaging operator"
+	}, {
+		"job": "packaging specialist"
+	}, {
+		"job": "packaging supervisor"
+	}, {
+		"job": "packaging technician"
+	}, {
+		"job": "paint supervisor"
+	}, {
+		"job": "paint technician"
+	}, {
+		"job": "painter"
+	}, {
+		"job": "paralegal"
+	}, {
+		"job": "paralegal assistant"
+	}, {
+		"job": "paramedic"
+	}, {
+		"job": "paraprofessional"
+	}, {
+		"job": "pastor"
+	}, {
+		"job": "patent agent"
+	}, {
+		"job": "patent attorney"
+	}, {
+		"job": "patent paralegal"
+	}, {
+		"job": "pathologist"
+	}, {
+		"job": "patient account director"
+	}, {
+		"job": "patient account manager"
+	}, {
+		"job": "patient account representative"
+	}, {
+		"job": "patient account specialist"
+	}, {
+		"job": "patient care assistant"
+	}, {
+		"job": "patient care associate"
+	}, {
+		"job": "patient care coordinator"
+	}, {
+		"job": "patient care director"
+	}, {
+		"job": "patient care manager"
+	}, {
+		"job": "patient care nurse"
+	}, {
+		"job": "patient care representative"
+	}, {
+		"job": "patient care specialist"
+	}, {
+		"job": "patient care technician"
+	}, {
+		"job": "patient nurse"
+	}, {
+		"job": "patient physician"
+	}, {
+		"job": "pattern maker"
+	}, {
+		"job": "paver operator"
+	}, {
+		"job": "payroll administrator"
+	}, {
+		"job": "payroll analyst"
+	}, {
+		"job": "payroll assistant"
+	}, {
+		"job": "payroll associate"
+	}, {
+		"job": "payroll clerk"
+	}, {
+		"job": "payroll consultant"
+	}, {
+		"job": "payroll coordinator"
+	}, {
+		"job": "payroll director"
+	}, {
+		"job": "payroll manager"
+	}, {
+		"job": "payroll professional"
+	}, {
+		"job": "payroll representative"
+	}, {
+		"job": "payroll specialist"
+	}, {
+		"job": "payroll supervisor"
+	}, {
+		"job": "payroll tax specialist"
+	}, {
+		"job": "pbx operator"
+	}, {
+		"job": "pbx technician"
+	}, {
+		"job": "pc specialist"
+	}, {
+		"job": "pc support technician"
+	}, {
+		"job": "pc technician"
+	}, {
+		"job": "pe electrical engineer"
+	}, {
+		"job": "pediatric dentist"
+	}, {
+		"job": "pediatric doctor"
+	}, {
+		"job": "pediatric nurse"
+	}, {
+		"job": "pediatric nurse practitioner"
+	}, {
+		"job": "pediatric registered nurse"
+	}, {
+		"job": "pediatrician"
+	}, {
+		"job": "peoplesoft analyst"
+	}, {
+		"job": "peoplesoft developer"
+	}, {
+		"job": "perioperative director"
+	}, {
+		"job": "perl developer"
+	}, {
+		"job": "personal banker"
+	}, {
+		"job": "personal care aide"
+	}, {
+		"job": "personal care assistant"
+	}, {
+		"job": "personal care attendant"
+	}, {
+		"job": "personal driver"
+	}, {
+		"job": "personal injury attorney"
+	}, {
+		"job": "personal injury paralegal"
+	}, {
+		"job": "personal trainer"
+	}, {
+		"job": "personnel assistant"
+	}, {
+		"job": "pest technician"
+	}, {
+		"job": "petroleum engineer"
+	}, {
+		"job": "petroleum project manager"
+	}, {
+		"job": "petroleum specialist"
+	}, {
+		"job": "pharmaceutical sales representative"
+	}, {
+		"job": "pharmacist"
+	}, {
+		"job": "pharmacist manager"
+	}, {
+		"job": "pharmacy analyst"
+	}, {
+		"job": "pharmacy assistant"
+	}, {
+		"job": "pharmacy coordinator"
+	}, {
+		"job": "pharmacy director"
+	}, {
+		"job": "pharmacy manager"
+	}, {
+		"job": "pharmacy pharmacist"
+	}, {
+		"job": "pharmacy specialist"
+	}, {
+		"job": "pharmacy supervisor"
+	}, {
+		"job": "pharmacy technician"
+	}, {
+		"job": "pharmacy technician instructor"
+	}, {
+		"job": "phlebotomist"
+	}, {
+		"job": "phlebotomy representative"
+	}, {
+		"job": "phlebotomy supervisor"
+	}, {
+		"job": "phlebotomy technician"
+	}, {
+		"job": "phone interviewer"
+	}, {
+		"job": "phone operator"
+	}, {
+		"job": "phone sales representative"
+	}, {
+		"job": "phone technician"
+	}, {
+		"job": "photo editor"
+	}, {
+		"job": "photo specialist"
+	}, {
+		"job": "photographer"
+	}, {
+		"job": "photojournalist"
+	}, {
+		"job": "php developer"
+	}, {
+		"job": "php engineer"
+	}, {
+		"job": "physical rehabilitation therapist"
+	}, {
+		"job": "physical therapist"
+	}, {
+		"job": "physical therapy assistant"
+	}, {
+		"job": "physical therapy director"
+	}, {
+		"job": "physical therapy technician"
+	}, {
+		"job": "physician assistant"
+	}, {
+		"job": "physician assistant, surgical"
+	}, {
+		"job": "physician recruiter"
+	}, {
+		"job": "physicist"
+	}, {
+		"job": "physics technician"
+	}, {
+		"job": "pilot"
+	}, {
+		"job": "pipe fitter"
+	}, {
+		"job": "pipe welder"
+	}, {
+		"job": "piping designer"
+	}, {
+		"job": "piping engineer"
+	}, {
+		"job": "plant engineer"
+	}, {
+		"job": "plant manager"
+	}, {
+		"job": "plant supervisor"
+	}, {
+		"job": "plastic engineer"
+	}, {
+		"job": "plc developer"
+	}, {
+		"job": "plc engineer"
+	}, {
+		"job": "plc technician"
+	}, {
+		"job": "plumber"
+	}, {
+		"job": "plumber helper"
+	}, {
+		"job": "plumbing manager"
+	}, {
+		"job": "plumbing technician"
+	}, {
+		"job": "podiatrist"
+	}, {
+		"job": "police dispatcher"
+	}, {
+		"job": "police officer"
+	}, {
+		"job": "policy analyst"
+	}, {
+		"job": "pool attendant"
+	}, {
+		"job": "pool technician"
+	}, {
+		"job": "porter"
+	}, {
+		"job": "portfolio administrator"
+	}, {
+		"job": "portfolio analyst"
+	}, {
+		"job": "portfolio manager"
+	}, {
+		"job": "power engineer"
+	}, {
+		"job": "pre-press manager"
+	}, {
+		"job": "pre-press operator"
+	}, {
+		"job": "pre-press specialist"
+	}, {
+		"job": "pre-press technician"
+	}, {
+		"job": "preschool teacher"
+	}, {
+		"job": "press operator"
+	}, {
+		"job": "principal electrical engineer"
+	}, {
+		"job": "principal engineer"
+	}, {
+		"job": "principal mechanical engineer"
+	}, {
+		"job": "principal network engineer"
+	}, {
+		"job": "principal software engineer"
+	}, {
+		"job": "print operator"
+	}, {
+		"job": "print press operator"
+	}, {
+		"job": "print production manager"
+	}, {
+		"job": "printer technician"
+	}, {
+		"job": "prn nurse"
+	}, {
+		"job": "probation officer"
+	}, {
+		"job": "process developer"
+	}, {
+		"job": "process engineer"
+	}, {
+		"job": "process improvement analyst"
+	}, {
+		"job": "process improvement engineer"
+	}, {
+		"job": "process improvement manager"
+	}, {
+		"job": "procurement agent"
+	}, {
+		"job": "procurement analyst"
+	}, {
+		"job": "procurement assistant"
+	}, {
+		"job": "procurement clerk"
+	}, {
+		"job": "procurement coordinator"
+	}, {
+		"job": "procurement director"
+	}, {
+		"job": "procurement engineer"
+	}, {
+		"job": "procurement manager"
+	}, {
+		"job": "procurement specialist"
+	}, {
+		"job": "product analyst"
+	}, {
+		"job": "product manager"
+	}, {
+		"job": "product marketing director"
+	}, {
+		"job": "product marketing manager"
+	}, {
+		"job": "product marketing specialist"
+	}, {
+		"job": "production assistant"
+	}, {
+		"job": "production associate"
+	}, {
+		"job": "production coordinator"
+	}, {
+		"job": "production engineer"
+	}, {
+		"job": "production line worker"
+	}, {
+		"job": "production manager"
+	}, {
+		"job": "production operator"
+	}, {
+		"job": "production scheduler"
+	}, {
+		"job": "production supervisor"
+	}, {
+		"job": "production technician"
+	}, {
+		"job": "production worker"
+	}, {
+		"job": "professional engineer"
+	}, {
+		"job": "professional nurse"
+	}, {
+		"job": "professional recruiter"
+	}, {
+		"job": "professional sales representative"
+	}, {
+		"job": "professional salesperson"
+	}, {
+		"job": "professor"
+	}, {
+		"job": "program director"
+	}, {
+		"job": "program manager"
+	}, {
+		"job": "project architect"
+	}, {
+		"job": "project business manager"
+	}, {
+		"job": "project coordinator"
+	}, {
+		"job": "project engineer"
+	}, {
+		"job": "project manager"
+	}, {
+		"job": "project manager analyst"
+	}, {
+		"job": "project manager consultant"
+	}, {
+		"job": "project pmp manager"
+	}, {
+		"job": "projectionist"
+	}, {
+		"job": "promotions assistant"
+	}, {
+		"job": "promotions coordinator"
+	}, {
+		"job": "promotions executive"
+	}, {
+		"job": "promotions manager"
+	}, {
+		"job": "promotions representative"
+	}, {
+		"job": "proofreader"
+	}, {
+		"job": "property apartment manager"
+	}, {
+		"job": "property business manager"
+	}, {
+		"job": "property manager"
+	}, {
+		"job": "propulsion engineer"
+	}, {
+		"job": "prosthetic technician"
+	}, {
+		"job": "psychiatric nurse"
+	}, {
+		"job": "psychiatric nurse practitioner"
+	}, {
+		"job": "psychiatric registered nurse"
+	}, {
+		"job": "psychiatric technician"
+	}, {
+		"job": "psychiatrist"
+	}, {
+		"job": "psychologist"
+	}, {
+		"job": "psychotherapist"
+	}, {
+		"job": "public relations assistant"
+	}, {
+		"job": "public relations coordinator"
+	}, {
+		"job": "public relations director"
+	}, {
+		"job": "public relations manager"
+	}, {
+		"job": "public relations marketing specialist"
+	}, {
+		"job": "public relations specialist"
+	}, {
+		"job": "pump operator"
+	}, {
+		"job": "purchase analyst"
+	}, {
+		"job": "purchase assistant"
+	}, {
+		"job": "purchase buyer"
+	}, {
+		"job": "purchase clerk"
+	}, {
+		"job": "purchase coordinator"
+	}, {
+		"job": "purchase specialist"
+	}, {
+		"job": "purchase supervisor"
+	}, {
+		"job": "purchasing agent"
+	}, {
+		"job": "purchasing director"
+	}, {
+		"job": "purchasing manager"
+	}, {
+		"job": "python developer"
+	}, {
+		"job": "quality analyst"
+	}, {
+		"job": "quality assurance analyst"
+	}, {
+		"job": "quality assurance assistant"
+	}, {
+		"job": "quality assurance associate"
+	}, {
+		"job": "quality assurance auditor"
+	}, {
+		"job": "quality assurance coordinator"
+	}, {
+		"job": "quality assurance director"
+	}, {
+		"job": "quality assurance engineer"
+	}, {
+		"job": "quality assurance inspector"
+	}, {
+		"job": "quality assurance leader"
+	}, {
+		"job": "quality assurance manager"
+	}, {
+		"job": "quality assurance nurse"
+	}, {
+		"job": "quality assurance representative"
+	}, {
+		"job": "quality assurance specialist"
+	}, {
+		"job": "quality assurance supervisor"
+	}, {
+		"job": "quality assurance technician"
+	}, {
+		"job": "quality assurance test engineer"
+	}, {
+		"job": "quality assurance tester"
+	}, {
+		"job": "quality auditor"
+	}, {
+		"job": "quality control analyst"
+	}, {
+		"job": "quality control assistant"
+	}, {
+		"job": "quality control associate"
+	}, {
+		"job": "quality control auditor"
+	}, {
+		"job": "quality control coordinator"
+	}, {
+		"job": "quality control director"
+	}, {
+		"job": "quality control engineer"
+	}, {
+		"job": "quality control inspector"
+	}, {
+		"job": "quality control manager"
+	}, {
+		"job": "quality control specialist"
+	}, {
+		"job": "quality control supervisor"
+	}, {
+		"job": "quality control technician"
+	}, {
+		"job": "quality coordinator"
+	}, {
+		"job": "quality engineer"
+	}, {
+		"job": "quality inspector"
+	}, {
+		"job": "quality instructor"
+	}, {
+		"job": "quality manager"
+	}, {
+		"job": "quality nurse"
+	}, {
+		"job": "quality specialist"
+	}, {
+		"job": "quality supervisor"
+	}, {
+		"job": "quality technician"
+	}, {
+		"job": "radar engineer"
+	}, {
+		"job": "radar technician"
+	}, {
+		"job": "radiation therapist"
+	}, {
+		"job": "radio operator"
+	}, {
+		"job": "radiographer"
+	}, {
+		"job": "radiological technologist"
+	}, {
+		"job": "radiologist"
+	}, {
+		"job": "radiology director"
+	}, {
+		"job": "radiology manager"
+	}, {
+		"job": "radiology technician"
+	}, {
+		"job": "radiology technologist"
+	}, {
+		"job": "reactor operator"
+	}, {
+		"job": "real estate agent"
+	}, {
+		"job": "real estate appraiser"
+	}, {
+		"job": "real estate assistant"
+	}, {
+		"job": "real estate associate"
+	}, {
+		"job": "real estate attorney"
+	}, {
+		"job": "real estate broker"
+	}, {
+		"job": "real estate director"
+	}, {
+		"job": "real estate manager"
+	}, {
+		"job": "real estate paralegal"
+	}, {
+		"job": "real estate salesperson"
+	}, {
+		"job": "realtor"
+	}, {
+		"job": "receptionist"
+	}, {
+		"job": "receptionist assistant"
+	}, {
+		"job": "receptionist clerk"
+	}, {
+		"job": "record clerk"
+	}, {
+		"job": "recreation assistant"
+	}, {
+		"job": "recreation coordinator"
+	}, {
+		"job": "recreation director"
+	}, {
+		"job": "recreation specialist"
+	}, {
+		"job": "recreation supervisor"
+	}, {
+		"job": "recreation therapist"
+	}, {
+		"job": "recreational therapist"
+	}, {
+		"job": "recruit assistant"
+	}, {
+		"job": "recruit coordinator"
+	}, {
+		"job": "recruit manager"
+	}, {
+		"job": "recruit professional"
+	}, {
+		"job": "recruit specialist"
+	}, {
+		"job": "recruiter"
+	}, {
+		"job": "recruiter assistant"
+	}, {
+		"job": "recruiter coordinator"
+	}, {
+		"job": "recruiter manager"
+	}, {
+		"job": "recruiter specialist"
+	}, {
+		"job": "recruitment manager"
+	}, {
+		"job": "recruitment specialist"
+	}, {
+		"job": "refrigeration engineer"
+	}, {
+		"job": "refrigeration mechanic"
+	}, {
+		"job": "refrigeration technician"
+	}, {
+		"job": "regional account executive"
+	}, {
+		"job": "regional account manager"
+	}, {
+		"job": "regional clinical director"
+	}, {
+		"job": "regional marketing director"
+	}, {
+		"job": "regional marketing manager"
+	}, {
+		"job": "regional sales director"
+	}, {
+		"job": "regional sales engineer"
+	}, {
+		"job": "regional sales executive"
+	}, {
+		"job": "regional sales manager"
+	}, {
+		"job": "regional sales representative"
+	}, {
+		"job": "registered cardiac nurse"
+	}, {
+		"job": "registered charge nurse"
+	}, {
+		"job": "registered clinical nurse"
+	}, {
+		"job": "registered dental assistant"
+	}, {
+		"job": "registered dietitian"
+	}, {
+		"job": "registered healthcare nurse"
+	}, {
+		"job": "registered medical nurse"
+	}, {
+		"job": "registered nurse"
+	}, {
+		"job": "registered nurse director"
+	}, {
+		"job": "registered nurse manager"
+	}, {
+		"job": "registered nurse practitioner"
+	}, {
+		"job": "registered nurse supervisor"
+	}, {
+		"job": "registered nursing nurse"
+	}, {
+		"job": "registered patient nurse"
+	}, {
+		"job": "registered pediatric nurse"
+	}, {
+		"job": "registered pharmacist"
+	}, {
+		"job": "registered physical therapist"
+	}, {
+		"job": "registered professional nurse"
+	}, {
+		"job": "registered respiratory therapist"
+	}, {
+		"job": "registered staff nurse"
+	}, {
+		"job": "registered surgery nurse"
+	}, {
+		"job": "registered surgical nurse"
+	}, {
+		"job": "registered travel nurse"
+	}, {
+		"job": "rehabilitation aide"
+	}, {
+		"job": "rehabilitation coordinator"
+	}, {
+		"job": "rehabilitation counselor"
+	}, {
+		"job": "rehabilitation director"
+	}, {
+		"job": "rehabilitation manager"
+	}, {
+		"job": "rehabilitation specialist"
+	}, {
+		"job": "rehabilitation technician"
+	}, {
+		"job": "rehabilitation therapist"
+	}, {
+		"job": "reimbursement analyst"
+	}, {
+		"job": "reimbursement coordinator"
+	}, {
+		"job": "reimbursement manager"
+	}, {
+		"job": "reimbursement representative"
+	}, {
+		"job": "reimbursement specialist"
+	}, {
+		"job": "relationship developer"
+	}, {
+		"job": "relationship manager"
+	}, {
+		"job": "reliability engineer"
+	}, {
+		"job": "repair manager"
+	}, {
+		"job": "repair technician"
+	}, {
+		"job": "repairman"
+	}, {
+		"job": "report analyst"
+	}, {
+		"job": "report developer"
+	}, {
+		"job": "representative sales manager"
+	}, {
+		"job": "representative teller"
+	}, {
+		"job": "research analyst"
+	}, {
+		"job": "research assistant"
+	}, {
+		"job": "research associate"
+	}, {
+		"job": "research biologist"
+	}, {
+		"job": "research chemist"
+	}, {
+		"job": "research engineer"
+	}, {
+		"job": "research laboratory manager"
+	}, {
+		"job": "research nurse"
+	}, {
+		"job": "research scientist"
+	}, {
+		"job": "research specialist"
+	}, {
+		"job": "research technician"
+	}, {
+		"job": "reservation agent"
+	}, {
+		"job": "reservation manager"
+	}, {
+		"job": "reservation specialist"
+	}, {
+		"job": "reservation supervisor"
+	}, {
+		"job": "residential appraiser"
+	}, {
+		"job": "residential property manager"
+	}, {
+		"job": "respiratory care practitioner"
+	}, {
+		"job": "respiratory director"
+	}, {
+		"job": "respiratory rrt therapist"
+	}, {
+		"job": "respiratory therapist"
+	}, {
+		"job": "restaurant assistant"
+	}, {
+		"job": "restaurant assistant manager"
+	}, {
+		"job": "restaurant cook"
+	}, {
+		"job": "restaurant executive"
+	}, {
+		"job": "restaurant general assistant"
+	}, {
+		"job": "restaurant general manager"
+	}, {
+		"job": "restaurant kitchen manager"
+	}, {
+		"job": "restaurant manager"
+	}, {
+		"job": "restaurant supervisor"
+	}, {
+		"job": "retail agent"
+	}, {
+		"job": "retail analyst"
+	}, {
+		"job": "retail assistant"
+	}, {
+		"job": "retail assistant manager"
+	}, {
+		"job": "retail associate"
+	}, {
+		"job": "retail banker"
+	}, {
+		"job": "retail cashier"
+	}, {
+		"job": "retail clerk"
+	}, {
+		"job": "retail consultant"
+	}, {
+		"job": "retail coordinator"
+	}, {
+		"job": "retail director"
+	}, {
+		"job": "retail general manager"
+	}, {
+		"job": "retail leader"
+	}, {
+		"job": "retail manager"
+	}, {
+		"job": "retail merchandiser"
+	}, {
+		"job": "retail sales consultant"
+	}, {
+		"job": "retail sales representative"
+	}, {
+		"job": "retail specialist"
+	}, {
+		"job": "retail store assistant"
+	}, {
+		"job": "retail store manager"
+	}, {
+		"job": "retail supervisor"
+	}, {
+		"job": "retirement administrator"
+	}, {
+		"job": "retirement specialist"
+	}, {
+		"job": "revenue accountant"
+	}, {
+		"job": "revenue analyst"
+	}, {
+		"job": "revenue director"
+	}, {
+		"job": "revenue manager"
+	}, {
+		"job": "rig operator"
+	}, {
+		"job": "risk analyst"
+	}, {
+		"job": "risk manager"
+	}, {
+		"job": "roadway engineer"
+	}, {
+		"job": "roof contractor"
+	}, {
+		"job": "roofer"
+	}, {
+		"job": "room attendant"
+	}, {
+		"job": "room service attendant"
+	}, {
+		"job": "route sales associate"
+	}, {
+		"job": "route sales driver"
+	}, {
+		"job": "route sales representative"
+	}, {
+		"job": "route sales specialist"
+	}, {
+		"job": "route salesperson"
+	}, {
+		"job": "safety analyst"
+	}, {
+		"job": "safety associate"
+	}, {
+		"job": "safety coordinator"
+	}, {
+		"job": "safety director"
+	}, {
+		"job": "safety engineer"
+	}, {
+		"job": "safety manager"
+	}, {
+		"job": "safety officer"
+	}, {
+		"job": "safety specialist"
+	}, {
+		"job": "safety supervisor"
+	}, {
+		"job": "safety technician"
+	}, {
+		"job": "sales account executive"
+	}, {
+		"job": "sales account manager"
+	}, {
+		"job": "sales administrator"
+	}, {
+		"job": "sales advisor"
+	}, {
+		"job": "sales agent"
+	}, {
+		"job": "sales analyst"
+	}, {
+		"job": "sales and marketing representative"
+	}, {
+		"job": "sales assistant"
+	}, {
+		"job": "sales associate"
+	}, {
+		"job": "sales b2b representative"
+	}, {
+		"job": "sales broker"
+	}, {
+		"job": "sales business representative"
+	}, {
+		"job": "sales clerk"
+	}, {
+		"job": "sales closer"
+	}, {
+		"job": "sales coach"
+	}, {
+		"job": "sales consultant"
+	}, {
+		"job": "sales contractor"
+	}, {
+		"job": "sales coordinator"
+	}, {
+		"job": "sales developer"
+	}, {
+		"job": "sales director"
+	}, {
+		"job": "sales driver"
+	}, {
+		"job": "sales engineer"
+	}, {
+		"job": "sales executive"
+	}, {
+		"job": "sales inside sales representative"
+	}, {
+		"job": "sales leader"
+	}, {
+		"job": "sales manager"
+	}, {
+		"job": "sales marketing associate"
+	}, {
+		"job": "sales merchandiser"
+	}, {
+		"job": "sales officer"
+	}, {
+		"job": "sales outside sales executive"
+	}, {
+		"job": "sales outside sales manager"
+	}, {
+		"job": "sales outside sales professional"
+	}, {
+		"job": "sales producer"
+	}, {
+		"job": "sales professional"
+	}, {
+		"job": "sales recruiter"
+	}, {
+		"job": "sales representative"
+	}, {
+		"job": "sales salesperson"
+	}, {
+		"job": "sales specialist"
+	}, {
+		"job": "sales supervisor"
+	}, {
+		"job": "sales technician"
+	}, {
+		"job": "sales territory manager"
+	}, {
+		"job": "sales trainer"
+	}, {
+		"job": "salesperson"
+	}, {
+		"job": "salon coordinator"
+	}, {
+		"job": "salon leader"
+	}, {
+		"job": "salon manager"
+	}, {
+		"job": "sap abap developer"
+	}, {
+		"job": "sap administrator"
+	}, {
+		"job": "sap analyst"
+	}, {
+		"job": "sap architect"
+	}, {
+		"job": "sap consultant"
+	}, {
+		"job": "sap developer"
+	}, {
+		"job": "sap manager"
+	}, {
+		"job": "sap specialist"
+	}, {
+		"job": "sas analyst"
+	}, {
+		"job": "sas developer"
+	}, {
+		"job": "sas programmer"
+	}, {
+		"job": "school bus driver"
+	}, {
+		"job": "science instructor"
+	}, {
+		"job": "science teacher"
+	}, {
+		"job": "sec accountant"
+	}, {
+		"job": "secretary"
+	}, {
+		"job": "secretary assistant"
+	}, {
+		"job": "security architect"
+	}, {
+		"job": "security engineer"
+	}, {
+		"job": "security guard"
+	}, {
+		"job": "security officer"
+	}, {
+		"job": "security system engineer"
+	}, {
+		"job": "sell associate"
+	}, {
+		"job": "sell professional"
+	}, {
+		"job": "sell specialist"
+	}, {
+		"job": "senior accountant"
+	}, {
+		"job": "senior tax accountant"
+	}, {
+		"job": "seo manager"
+	}, {
+		"job": "seo specialist"
+	}, {
+		"job": "server administrator"
+	}, {
+		"job": "server engineer"
+	}, {
+		"job": "server manager"
+	}, {
+		"job": "server support technician"
+	}, {
+		"job": "service customer service representative"
+	}, {
+		"job": "service engineer"
+	}, {
+		"job": "service representative"
+	}, {
+		"job": "service technician"
+	}, {
+		"job": "sharepoint administrator"
+	}, {
+		"job": "sharepoint analyst"
+	}, {
+		"job": "sharepoint architect"
+	}, {
+		"job": "sharepoint developer"
+	}, {
+		"job": "sharepoint engineer"
+	}, {
+		"job": "sheet metal mechanic"
+	}, {
+		"job": "sheet metal worker"
+	}, {
+		"job": "sheriff"
+	}, {
+		"job": "shipping associate"
+	}, {
+		"job": "shipping clerk"
+	}, {
+		"job": "shipping coordinator"
+	}, {
+		"job": "shipping manager"
+	}, {
+		"job": "shipping supervisor"
+	}, {
+		"job": "shoe designer"
+	}, {
+		"job": "shop manager"
+	}, {
+		"job": "sign language interpreter"
+	}, {
+		"job": "sleep technician"
+	}, {
+		"job": "soa architect"
+	}, {
+		"job": "social media specialist"
+	}, {
+		"job": "social service assistant"
+	}, {
+		"job": "social service coordinator"
+	}, {
+		"job": "social service director"
+	}, {
+		"job": "social service manager"
+	}, {
+		"job": "social service specialist"
+	}, {
+		"job": "social service worker"
+	}, {
+		"job": "social studies teacher"
+	}, {
+		"job": "social worker"
+	}, {
+		"job": "software analyst"
+	}, {
+		"job": "software application developer"
+	}, {
+		"job": "software application engineer"
+	}, {
+		"job": "software architect"
+	}, {
+		"job": "software consultant"
+	}, {
+		"job": "software design engineer"
+	}, {
+		"job": "software developer"
+	}, {
+		"job": "software development director"
+	}, {
+		"job": "software development engineer"
+	}, {
+		"job": "software development manager"
+	}, {
+		"job": "software director"
+	}, {
+		"job": "software embedded engineer"
+	}, {
+		"job": "software engineer"
+	}, {
+		"job": "software manager"
+	}, {
+		"job": "software principal"
+	}, {
+		"job": "software programmer"
+	}, {
+		"job": "software quality assurance analyst"
+	}, {
+		"job": "software quality assurance engineer"
+	}, {
+		"job": "software quality assurance tester"
+	}, {
+		"job": "software specialist"
+	}, {
+		"job": "software support analyst"
+	}, {
+		"job": "software support engineer"
+	}, {
+		"job": "software support specialist"
+	}, {
+		"job": "software support technician"
+	}, {
+		"job": "software system developer"
+	}, {
+		"job": "software system engineer"
+	}, {
+		"job": "software technician"
+	}, {
+		"job": "software test analyst"
+	}, {
+		"job": "software test engineer"
+	}, {
+		"job": "software tester"
+	}, {
+		"job": "software trainer"
+	}, {
+		"job": "soil technician"
+	}, {
+		"job": "solaris administrator"
+	}, {
+		"job": "solder technician"
+	}, {
+		"job": "solution architect"
+	}, {
+		"job": "sonographer"
+	}, {
+		"job": "sound engineer"
+	}, {
+		"job": "sous chef"
+	}, {
+		"job": "sox analyst"
+	}, {
+		"job": "spa coordinator"
+	}, {
+		"job": "spa manager"
+	}, {
+		"job": "special education assistant"
+	}, {
+		"job": "special education teacher"
+	}, {
+		"job": "speech language pathologist"
+	}, {
+		"job": "speech language therapist"
+	}, {
+		"job": "speech pathologist"
+	}, {
+		"job": "speech therapist"
+	}, {
+		"job": "sport director"
+	}, {
+		"job": "sport manager"
+	}, {
+		"job": "spray technician"
+	}, {
+		"job": "sprinkler fitter"
+	}, {
+		"job": "sql data analyst"
+	}, {
+		"job": "sql database administrator"
+	}, {
+		"job": "sql database analyst"
+	}, {
+		"job": "sql database architect"
+	}, {
+		"job": "sql database developer"
+	}, {
+		"job": "sql database report developer"
+	}, {
+		"job": "sql dba"
+	}, {
+		"job": "sql developer"
+	}, {
+		"job": "staff engineer"
+	}, {
+		"job": "staff nurse"
+	}, {
+		"job": "staff registered nurse"
+	}, {
+		"job": "state tested nursing assistant"
+	}, {
+		"job": "statistical analyst"
+	}, {
+		"job": "statistical developer"
+	}, {
+		"job": "statistical programmer"
+	}, {
+		"job": "statistician"
+	}, {
+		"job": "steam engineer"
+	}, {
+		"job": "stock broker"
+	}, {
+		"job": "stockroom associate"
+	}, {
+		"job": "stockroom coordinator"
+	}, {
+		"job": "stone mason"
+	}, {
+		"job": "store assistant"
+	}, {
+		"job": "store assistant manager"
+	}, {
+		"job": "store associate"
+	}, {
+		"job": "store cashier"
+	}, {
+		"job": "store clerk"
+	}, {
+		"job": "store consultant"
+	}, {
+		"job": "store detective"
+	}, {
+		"job": "store director"
+	}, {
+		"job": "store executive"
+	}, {
+		"job": "store leader"
+	}, {
+		"job": "store manager"
+	}, {
+		"job": "store manager assistant"
+	}, {
+		"job": "store retail manager"
+	}, {
+		"job": "store sales leader"
+	}, {
+		"job": "store supervisor"
+	}, {
+		"job": "strategic planning analyst"
+	}, {
+		"job": "strategic planning developer"
+	}, {
+		"job": "strategic planning director"
+	}, {
+		"job": "strategic planning executive"
+	}, {
+		"job": "strategic planning manager"
+	}, {
+		"job": "structural designer"
+	}, {
+		"job": "structural engineer"
+	}, {
+		"job": "structural ironworker"
+	}, {
+		"job": "student teacher"
+	}, {
+		"job": "studio manager"
+	}, {
+		"job": "studio photographer"
+	}, {
+		"job": "substance abuse counselor"
+	}, {
+		"job": "supply chain analyst"
+	}, {
+		"job": "supply chain director"
+	}, {
+		"job": "supply chain manager"
+	}, {
+		"job": "supply chain planner"
+	}, {
+		"job": "supply chain specialist"
+	}, {
+		"job": "supply coordinator"
+	}, {
+		"job": "support analyst"
+	}, {
+		"job": "support call center representative"
+	}, {
+		"job": "support help desk analyst"
+	}, {
+		"job": "support help desk technician"
+	}, {
+		"job": "support technician"
+	}, {
+		"job": "surgery nurse"
+	}, {
+		"job": "surgery scheduler"
+	}, {
+		"job": "surgery technician"
+	}, {
+		"job": "surgical assistant"
+	}, {
+		"job": "surgical coordinator"
+	}, {
+		"job": "surgical director"
+	}, {
+		"job": "surgical nurse"
+	}, {
+		"job": "surgical registered nurse"
+	}, {
+		"job": "surgical technician"
+	}, {
+		"job": "surgical technologist"
+	}, {
+		"job": "survey project manager"
+	}, {
+		"job": "survey technician"
+	}, {
+		"job": "surveyor"
+	}, {
+		"job": "swim instructor"
+	}, {
+		"job": "switchboard operator"
+	}, {
+		"job": "sybase developer"
+	}, {
+		"job": "system administration manager"
+	}, {
+		"job": "system administrator"
+	}, {
+		"job": "system analyst"
+	}, {
+		"job": "system business analyst"
+	}, {
+		"job": "system design engineer"
+	}, {
+		"job": "system network administrator"
+	}, {
+		"job": "tax accountant"
+	}, {
+		"job": "tax advisor"
+	}, {
+		"job": "tax analyst"
+	}, {
+		"job": "tax associate"
+	}, {
+		"job": "tax consultant"
+	}, {
+		"job": "tax director"
+	}, {
+		"job": "tax manager"
+	}, {
+		"job": "tax preparation manager"
+	}, {
+		"job": "tax professional"
+	}, {
+		"job": "tax specialist"
+	}, {
+		"job": "tax supervisor"
+	}, {
+		"job": "taxi driver"
+	}, {
+		"job": "teacher"
+	}, {
+		"job": "teacher aide"
+	}, {
+		"job": "teacher assistant"
+	}, {
+		"job": "teacher counselor"
+	}, {
+		"job": "technical analyst"
+	}, {
+		"job": "technical architect"
+	}, {
+		"job": "technical business analyst"
+	}, {
+		"job": "technical consultant"
+	}, {
+		"job": "technical editor"
+	}, {
+		"job": "technical engineer"
+	}, {
+		"job": "technical manager"
+	}, {
+		"job": "technical project manager"
+	}, {
+		"job": "technical sales engineer"
+	}, {
+		"job": "technical sales representative"
+	}, {
+		"job": "technical specialist"
+	}, {
+		"job": "technical support agent"
+	}, {
+		"job": "technical support analyst"
+	}, {
+		"job": "technical support associate"
+	}, {
+		"job": "technical support engineer"
+	}, {
+		"job": "technical support manager"
+	}, {
+		"job": "technical support professional"
+	}, {
+		"job": "technical support representative"
+	}, {
+		"job": "technical support specialist"
+	}, {
+		"job": "technical support supervisor"
+	}, {
+		"job": "technical support technician"
+	}, {
+		"job": "technical system analyst"
+	}, {
+		"job": "technical writer"
+	}, {
+		"job": "technician support analyst"
+	}, {
+		"job": "technician writer"
+	}, {
+		"job": "technology instructor"
+	}, {
+		"job": "technology specialist"
+	}, {
+		"job": "telecom analyst"
+	}, {
+		"job": "telecom engineer"
+	}, {
+		"job": "telecom manager"
+	}, {
+		"job": "telecom representative"
+	}, {
+		"job": "telecom technician"
+	}, {
+		"job": "telecommunications administrator"
+	}, {
+		"job": "telecommunications analyst"
+	}, {
+		"job": "telecommunications engineer"
+	}, {
+		"job": "telecommunications manager"
+	}, {
+		"job": "telecommunications specialist"
+	}, {
+		"job": "telecommunications technician"
+	}, {
+		"job": "telemarketing agent"
+	}, {
+		"job": "telemarketing manager"
+	}, {
+		"job": "telemarketing representative"
+	}, {
+		"job": "telemarketing sales representative"
+	}, {
+		"job": "telemetry technician"
+	}, {
+		"job": "telephony engineer"
+	}, {
+		"job": "telesales agent"
+	}, {
+		"job": "telesales representative"
+	}, {
+		"job": "teller"
+	}, {
+		"job": "teller manager"
+	}, {
+		"job": "teller representative"
+	}, {
+		"job": "teller supervisor"
+	}, {
+		"job": "territory account executive"
+	}, {
+		"job": "territory account manager"
+	}, {
+		"job": "territory manager"
+	}, {
+		"job": "territory manager representative"
+	}, {
+		"job": "territory outside sales manager"
+	}, {
+		"job": "territory representative"
+	}, {
+		"job": "territory sales manager"
+	}, {
+		"job": "territory sales representative"
+	}, {
+		"job": "test case developer"
+	}, {
+		"job": "test coordinator"
+	}, {
+		"job": "test developer"
+	}, {
+		"job": "test director"
+	}, {
+		"job": "test engineer"
+	}, {
+		"job": "test manager"
+	}, {
+		"job": "tester"
+	}, {
+		"job": "theater manager"
+	}, {
+		"job": "therapeutic recreation director"
+	}, {
+		"job": "therapeutic recreation specialist"
+	}, {
+		"job": "therapist assistant"
+	}, {
+		"job": "therapy assistant"
+	}, {
+		"job": "ticketing agent"
+	}, {
+		"job": "tig welder"
+	}, {
+		"job": "tire technician"
+	}, {
+		"job": "title assistant"
+	}, {
+		"job": "title examiner"
+	}, {
+		"job": "title officer"
+	}, {
+		"job": "toddler teacher"
+	}, {
+		"job": "tool maker"
+	}, {
+		"job": "tour manager"
+	}, {
+		"job": "tour operator"
+	}, {
+		"job": "tractor trailer driver"
+	}, {
+		"job": "trade show coordinator"
+	}, {
+		"job": "trademark paralegal"
+	}, {
+		"job": "traffic engineer"
+	}, {
+		"job": "trailer mechanic"
+	}, {
+		"job": "training administrator"
+	}, {
+		"job": "training analyst"
+	}, {
+		"job": "training assistant"
+	}, {
+		"job": "training associate"
+	}, {
+		"job": "training consultant"
+	}, {
+		"job": "training coordinator"
+	}, {
+		"job": "training developer"
+	}, {
+		"job": "training director"
+	}, {
+		"job": "training instructor"
+	}, {
+		"job": "training manager"
+	}, {
+		"job": "training professional"
+	}, {
+		"job": "training program assistant"
+	}, {
+		"job": "training program developer"
+	}, {
+		"job": "training program manager"
+	}, {
+		"job": "training representative"
+	}, {
+		"job": "training specialist"
+	}, {
+		"job": "training supervisor"
+	}, {
+		"job": "training technician"
+	}, {
+		"job": "transcriptionist"
+	}, {
+		"job": "transplant coordinator"
+	}, {
+		"job": "transport driver"
+	}, {
+		"job": "transportation analyst"
+	}, {
+		"job": "transportation coordinator"
+	}, {
+		"job": "transportation manager"
+	}, {
+		"job": "transportation security officer"
+	}, {
+		"job": "transportation supervisor"
+	}, {
+		"job": "travel agent"
+	}, {
+		"job": "travel consultant"
+	}, {
+		"job": "travel counselor"
+	}, {
+		"job": "travel nurse"
+	}, {
+		"job": "travel registered nurse"
+	}, {
+		"job": "travel specialist"
+	}, {
+		"job": "treatment plant operator"
+	}, {
+		"job": "tree trimmer"
+	}, {
+		"job": "trial attorney"
+	}, {
+		"job": "truck cdl driver"
+	}, {
+		"job": "truck driver"
+	}, {
+		"job": "tv technician"
+	}, {
+		"job": "typist"
+	}, {
+		"job": "ultrasound technician"
+	}, {
+		"job": "ultrasound technologist"
+	}, {
+		"job": "underwriter"
+	}, {
+		"job": "underwriter assistant"
+	}, {
+		"job": "underwriter manager"
+	}, {
+		"job": "underwriter specialist"
+	}, {
+		"job": "unit clerk"
+	}, {
+		"job": "unit secretary"
+	}, {
+		"job": "unix administrator"
+	}, {
+		"job": "unix analyst"
+	}, {
+		"job": "unix developer"
+	}, {
+		"job": "unix engineer"
+	}, {
+		"job": "unix manager"
+	}, {
+		"job": "unload supervisor"
+	}, {
+		"job": "urban planner"
+	}, {
+		"job": "utilization nurse"
+	}, {
+		"job": "valet"
+	}, {
+		"job": "valet attendant"
+	}, {
+		"job": "valet park attendant"
+	}, {
+		"job": "vascular technician"
+	}, {
+		"job": "vascular technologist"
+	}, {
+		"job": "vb developer"
+	}, {
+		"job": "vb.net developer"
+	}, {
+		"job": "vba developer"
+	}, {
+		"job": "vehicle attendant"
+	}, {
+		"job": "vehicle operator"
+	}, {
+		"job": "vehicle service attendant"
+	}, {
+		"job": "vet technician"
+	}, {
+		"job": "veterinary assistant"
+	}, {
+		"job": "veterinary receptionist"
+	}, {
+		"job": "veterinary technician"
+	}, {
+		"job": "video editor"
+	}, {
+		"job": "video engineer"
+	}, {
+		"job": "video interpreter"
+	}, {
+		"job": "video manager"
+	}, {
+		"job": "video technician"
+	}, {
+		"job": "videographer"
+	}, {
+		"job": "visual basic developer"
+	}, {
+		"job": "visual designer"
+	}, {
+		"job": "visual developer"
+	}, {
+		"job": "visual manager"
+	}, {
+		"job": "visual merchandiser"
+	}, {
+		"job": "vocational counselor"
+	}, {
+		"job": "vocational rehabilitation counselor"
+	}, {
+		"job": "volunteer coordinator"
+	}, {
+		"job": "waiter"
+	}, {
+		"job": "waitress"
+	}, {
+		"job": "warehouse assistant"
+	}, {
+		"job": "warehouse associate"
+	}, {
+		"job": "warehouse clerk"
+	}, {
+		"job": "warehouse coordinator"
+	}, {
+		"job": "warehouse driver"
+	}, {
+		"job": "warehouse handler"
+	}, {
+		"job": "warehouse laborer"
+	}, {
+		"job": "warehouse manager"
+	}, {
+		"job": "warehouse material handler"
+	}, {
+		"job": "warehouse operator"
+	}, {
+		"job": "warehouse specialist"
+	}, {
+		"job": "warehouse supervisor"
+	}, {
+		"job": "warehouse technician"
+	}, {
+		"job": "warehouse worker"
+	}, {
+		"job": "warehouseman"
+	}, {
+		"job": "wastewater operator"
+	}, {
+		"job": "wastewater treatment operator"
+	}, {
+		"job": "water resource engineer"
+	}, {
+		"job": "web based application developer"
+	}, {
+		"job": "web designer"
+	}, {
+		"job": "web developer"
+	}, {
+		"job": "web graphic designer"
+	}, {
+		"job": "web service developer"
+	}, {
+		"job": "web software developer"
+	}, {
+		"job": "weblogic administrator"
+	}, {
+		"job": "websphere administrator"
+	}, {
+		"job": "websphere developer"
+	}, {
+		"job": "welder"
+	}, {
+		"job": "welding engineer"
+	}, {
+		"job": "welding inspector"
+	}, {
+		"job": "welding supervisor"
+	}, {
+		"job": "wellness coordinator"
+	}, {
+		"job": "wellness director"
+	}, {
+		"job": "wellness nurse"
+	}, {
+		"job": "wind technician"
+	}, {
+		"job": "window server administrator"
+	}, {
+		"job": "window server engineer"
+	}, {
+		"job": "wine consultant"
+	}, {
+		"job": "wine manager"
+	}, {
+		"job": "wireless consultant"
+	}, {
+		"job": "wireless engineer"
+	}, {
+		"job": "wireless manager"
+	}, {
+		"job": "wireless representative"
+	}, {
+		"job": "wireless technician"
+	}, {
+		"job": "woodworker"
+	}, {
+		"job": "word processing specialist"
+	}, {
+		"job": "writer"
+	}, {
+		"job": "writer editor"
+	}, {
+		"job": "x-ray technician"
+	}, {
+		"job": "x-ray technologist"
+	}, {
+		"job": "youth counselor"
+	}]
+}
