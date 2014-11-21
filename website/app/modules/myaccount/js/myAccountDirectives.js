@@ -13,6 +13,8 @@
 						scope.linkedInService = linkedInService;
 						scope.myProfile = {};
 						linkedInService.getProfile();
+						// get list of jobs
+						jobsService.setJobsList();
 
 						scope.weatherForecast = '';
 
@@ -27,22 +29,26 @@
 						});
 
 						scope.submitForm = function() {
-							console.log('form submitted');
+							//promise examples
+							// weatherService.getWeather('East Haven', 'CT').then(function(data) {
+							// 	console.log(data);
+							// 	scope.weatherForecast = data.weather[0].description;
+							// }, function(error) {
+							// 	console.log(error);
+							// });
 
-							weatherService.getWeather('East Haven', 'CT').then(function(data) {
-								console.log(data);
-								scope.weatherForecast = data.weather[0].description;
-							}, function(error) {
-								console.log(error);
-							});
+							// weatherService.getNewHavenWeather().then(function(data) {
+							// 	console.log(data);
+							// }, function(error) {
+							// 	console.log(error);
+							// });
 
-							weatherService.getNewHavenWeather().then(function(data) {
-								console.log(data);
-							}, function(error) {
-								console.log(error);
-							});
-
-							// jobsService.getJobsList();
+							// get list of all jobs
+							console.log(jobsService.getJobsList());
+							// get number of random jobs
+							console.log(jobsService.getRandomJobs(3));
+							// get one random job
+							console.log(jobsService.getRandomJob());
 						};
 
 						scope.setValues = function(profile) {

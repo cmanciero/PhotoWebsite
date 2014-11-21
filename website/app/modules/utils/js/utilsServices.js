@@ -90,16 +90,29 @@
 		])
 		.factory('jobsService', ['$http', '$q',
 			function($http, $q) {
+				var arrJobsList = [];
+
+				function randomSort() {
+					return Math.random() - 0.5;
+				}
+
 				return {
-					getJobsList: function() {
+					setJobsList: function() {
 						return $http.get('modules/utils/js/jobs.json').then(function(response) {
-							var jobs = response.data.jobs;
-							for (var i = 0, j = jobs.length; i < j; i += 1) {
-								console.log(jobs[i].job);
-							}
+							arrJobsList = response.data.jobs;
 						}, function(response) {
 							return $q.reject(response.data);
 						});
+					},
+					getJobsList: function() {
+						return arrJobsList;
+					},
+					getRandomJobs: function(numberOfJobs) {
+						return arrJobsList.sort(randomSort).splice(0, numberOfJobs);
+					},
+					getRandomJob: function() {
+						var randomNumber = Math.floor(Math.random() * arrJobsList.length);
+						return arrJobsList[randomNumber];
 					}
 				};
 			}
