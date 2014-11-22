@@ -86,3 +86,48 @@ body {
     border-bottom: 0;
   }
 }
+
+.voteBarChartContainer{
+  border-left:3px solid; 
+  border-bottom:3px solid; 
+  padding:15px 0 25px;
+}
+
+.voteBarChart{
+  position:relative; 
+  height:50px; 
+  width:100%; 
+  border:1px solid #eee; 
+  border-left:none; 
+  margin-top:15px;
+}
+
+.voteBar{
+  width:0%;
+  position:absolute; height:49px;
+  z-index:-1; 
+  transition: all 0.6s ease;
+  -webkit-transition: all 0.6s ease;
+}
+
+.voteBarJob{
+  display:inline-block;
+  margin-top:15px;
+  margin-left:10px;
+}
+
+.redBar{
+  background-color:rgba(255,0,0,0.5);
+}
+
+.blueBar{
+  background-color:rgba(0,0,255,0.5);
+}
+
+.greenBar{
+  background-color:rgba(0,255,0,0.5);
+}
+
+.purpleBar{
+  background-color:rgba(255,0,255,0.5);
+}
