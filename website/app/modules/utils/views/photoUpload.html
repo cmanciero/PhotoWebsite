@@ -5,8 +5,5 @@
 	<div class="progress" ng-show="progress!=0">
 		<div class="bar" style="width:{{progress}}%;"></div>
 	</div>
-	{{avatar}}
-	<div ng-if="avatar != ''" style="margin: 50px 0 0;">
-		<img ng-src="upload/{{avatar}}"/>
-	</div>
+	<div id="thumbnail" style="max-width:300px;"></div>
 </div>
