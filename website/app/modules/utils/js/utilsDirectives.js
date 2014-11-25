@@ -2,60 +2,53 @@
 	'use strict';
 
 	angular.module('jobPhotoApp.utils.directives', [])
-		.directive('cgmPhotoUpload', ['localStorageService',
-			function(localStorageService) {
-				return {
-					restrict: 'E',
-					templateUrl: '/modules/utils/views/photoUpload.html',
-					scope: {
-						account: '=accountAttr'
-					},
-					replace: true,
-					link: function(scope, elem) {
-						scope.progress = 0;
+		.directive('cgmPhotoUpload', function() {
+			return {
+				restrict: 'E',
+				templateUrl: '/modules/utils/views/photoUpload.html',
+				scope: {
+					account: '=accountAttr'
+				},
+				replace: true,
+				link: function(scope) {
+					scope.progress = 0;
 
-						scope.fileChanged = function(event) {
-							var fileName = elem.find('input[type="file"]').val();
-							console.log('value changed ' + fileName);
+					scope.fileChanged = function(event) {
 
-							scope.$apply(function() {
-								scope.avatar = fileName;
-							});
+						var files = event.files;
 
-							if (localStorageService.isSupported) {
-								localStorageService.set('profilePhoto', fileName);
+						// Loop through the FileList and render image files as thumbnails.
+						for (var i = 0, f = files.length; i < f; i++) {
+
+							// Only process image files.
+							if (!files[i].type.match('image.*')) {
+								continue;
 							}
 
-							var files = event.files;
+							var reader = new FileReader();
 
-							// Loop through the FileList and render image files as thumbnails.
-							for (var i = 0, f; f = files[i]; i++) {
+							// Closure to capture the file information.
+							reader.onload = displayImage(files[i]);
 
-								// Only process image files.
-								if (!f.type.match('image.*')) {
-									continue;
-								}
+							// Read in the image file as a data URL.
+							reader.readAsDataURL(files[i]);
+						}
+					};
 
-								var reader = new FileReader();
+					scope.changePhoto = function() {
+						$('#fileSelection').click();
+					};
 
-								// Closure to capture the file information.
-								reader.onload = (function(theFile) {
-									return function(e) {
-										// Render thumbnail.
-										var span = document.createElement('span');
-										span.innerHTML = ['<img class="thumb" src="', e.target.result,
-											'" title="', escape(theFile.name), '" style="max-width:200px;"/>'
-										].join('');
-										document.getElementById('thumbnail').insertBefore(span, null);
-									};
-								})(f);
-
-								// Read in the image file as a data URL.
-								reader.readAsDataURL(f);
-							}
+					// take the file selected and show it on the page
+					function displayImage(theFile) {
+						return function(e) {
+							// Render thumbnail.
+							var myPhoto = document.getElementById('myPhoto');
+							myPhoto.src = e.target.result;
+							myPhoto.title = theFile.name;
 						};
 					}
-				};
-			}
-		]);
+				}
+			};
+		});
 })();

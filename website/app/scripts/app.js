@@ -21,10 +21,9 @@
       'ngResource',
       'ngRoute',
       'ngSanitize',
-      'ngTouch',
-      'LocalStorageModule'
+      'ngTouch'
     ])
-    .config(function($routeProvider, localStorageServiceProvider) {
+    .config(function($routeProvider) {
       $routeProvider
         .when('/', {
           templateUrl: 'modules/voting/views/voting.html',
@@ -37,7 +36,5 @@
         .otherwise({
           redirectTo: '/'
         });
-
-      localStorageServiceProvider.setPrefix('jobPhoto');
     });
 })();

@@ -2,8 +2,8 @@
 	'use strict';
 
 	angular.module('jobPhotoApp.myaccount.controllers', [])
-		.controller('MyAccountController', ['$scope',
-			function($scope) {
+		.controller('MyAccountController', ['$scope', 'jobService',
+			function($scope, jobService) {
 				$scope.myInfo = {
 					photo: 'images/superman.jpg',
 					numberOfVotes: 30456,
@@ -25,6 +25,8 @@
 						votes: 3456
 					}]
 				};
+
+				$scope.topJob = jobService.findTopJob($scope.myInfo.jobs);
 			}
 		]);
 })();

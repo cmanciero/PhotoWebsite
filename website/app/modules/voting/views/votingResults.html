@@ -1,8 +1,4 @@
 <section>
-	<div class="row">
-		<h2 class="col-md-6">Number of votes: {{info.numberOfVotes | number}}</h2>
-		<h3 class="col-md-6">Winning Profession: {{topJob}}</h3>
-	</div>
 	<div class="voteBarChartContainer">
 		<div class="voteBarChart" ng-repeat="job in info.jobs">
 			<cgm-vote-bar job-index-attr="$index" total-vote-attr="info.numberOfVotes" job-attr="job"></cgm-vote-bar>
