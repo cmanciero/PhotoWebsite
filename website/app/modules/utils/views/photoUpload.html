@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 	<div style="min-height:275px; max-height:275px; position:relative;">
-		<img id="myPhoto" ng-src="{{account.photo}}" class="img-responsive" style="max-height:275px; margin:0 auto;" />
-		<input id="fileSelection" onchange="angular.element(this).scope().fileChanged(this)" type="file" style="position:absolute; top:0; left:0; width:100%; z-index:1; height:100%; opacity:0;" title="{{account.photo}}" />
+		<img id="myPhoto" ng-src="{{photoUrl}}" class="img-responsive" style="max-height:275px; margin:0 auto;" />
+		<input id="fileSelection" onchange="angular.element(this).scope().fileChanged(this)" type="file" style="position:absolute; top:0; left:0; width:100%; z-index:1; height:100%; opacity:0;" title="Click to upload new photo" />
 	</div>
-	<button ng-click="changePhoto()">Upload photo</button>
+	<button ng-show="bMyProfile" ng-click="changePhoto()">Upload photo</button>
 </div>

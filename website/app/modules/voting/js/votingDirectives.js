@@ -36,8 +36,8 @@
 				};
 			}
 		])
-		.directive('cgmVoteBar', ['voteBarFilter',
-			function(voteBarFilter) {
+		.directive('cgmVoteBar', ['voteBarFilter', '$timeout',
+			function(voteBarFilter, $timeout) {
 				return {
 					restrict: 'E',
 					scope: {
@@ -73,7 +73,7 @@
 
 						// draws bar width
 						scope.setBarPercent = function(percent) {
-							setTimeout(function() {
+							$timeout(function() {
 								scope.votePercent = percent + '%';
 							}, 100);
 						};
@@ -82,6 +82,8 @@
 							// set the bar width, will animate to bar width
 							scope.setBarPercent(i);
 						}
+
+						scope.votePercent = voteTotal;
 					}
 				};
 			}

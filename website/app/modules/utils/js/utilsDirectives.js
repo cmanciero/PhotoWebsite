@@ -7,11 +7,14 @@
 				restrict: 'E',
 				templateUrl: '/modules/utils/views/photoUpload.html',
 				scope: {
-					account: '=accountAttr'
+					account: '=accountAttr',
+					isProfile: '=isProfileAttr',
+				photoUrl: '=photoUrlAttr'
 				},
 				replace: true,
 				link: function(scope) {
 					scope.progress = 0;
+					scope.bMyProfile = scope.isProfile || false;
 
 					scope.fileChanged = function(event) {
 

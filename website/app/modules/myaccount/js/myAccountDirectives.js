@@ -11,30 +11,11 @@
 					templateUrl: '/modules/myaccount/views/myJobs.html',
 					link: function(scope) {
 						scope.linkedInService = linkedInService;
-						scope.myProfile = {};
-
-						// get 3 random jobs
-						scope.$on('jobsListSet', function() {
-							var arrRandomJobs = jobsService.getRandomJobs(3);
-
-							scope.jobOption1 = arrRandomJobs[0].job;
-							scope.jobOption2 = arrRandomJobs[1].job;
-							scope.jobOption3 = arrRandomJobs[2].job;
-						});
-
+						scope.myProfile = scope.linkedInService.getLinkedInProfile() || {};
 						scope.weatherForecast = '';
+						scope.myConnections = scope.linkedInService.getLinkedInConnections() || {};
 
-						scope.$on('linkedInProfileSet', function(event, profile) {
-							scope.myProfile = profile;
-							scope.setValues(profile);
-							scope.$apply();
-						});
-
-						scope.$on('linkedInConnectionsSet', function(event, connections) {
-							console.log(connections);
-							scope.$apply();
-						});
-
+						// set random job for passed in option
 						scope.changeJob = function(optionNumber) {
 							switch (optionNumber) {
 								case 1:
@@ -70,6 +51,58 @@
 						scope.setValues = function(profile) {
 							scope.myJobTitle = profile.headline;
 						};
+
+						// set random jobs for all other options
+						scope.setOtherJobs = function() {
+							var arrRandomJobs = jobsService.getRandomJobs(3);
+
+							scope.jobOption1 = arrRandomJobs[0].job;
+							scope.jobOption2 = arrRandomJobs[1].job;
+							scope.jobOption3 = arrRandomJobs[2].job;
+						};
+
+						// get 3 random jobs
+						scope.$on('jobsListSet', function() {
+							scope.setOtherJobs();
+						});
+
+						// check to see if my profile from linked in is set
+						if (scope.myProfile.hasOwnProperty('id')) {
+							scope.setValues(scope.myProfile);
+						} else {
+							scope.$on('linkedInProfileSet', function(event, profile) {
+								scope.$apply(function() {
+									scope.myProfile = profile;
+									scope.setValues(profile);
+								});
+							});
+						}
+
+						// check to see job option 1 is set
+						if (!scope.jobOption1) {
+							scope.changeJob(1);
+						}
+
+						// check to see job option 2 is set
+						if (!scope.jobOption2) {
+							scope.changeJob(2);
+						}
+
+						// check to see job option 3 is set
+						if (!scope.jobOption3) {
+							scope.changeJob(3);
+						}
+
+						if (scope.myConnections.values && scope.myConnections.values.length > 0) {
+							console.log(scope.myConnections);
+						} else {
+							scope.$on('linkedInConnectionsSet', function(event, connections) {
+								scope.$apply(function() {
+									console.log(connections);
+									scope.myConnections = connections;
+								});
+							});
+						}
 					}
 				};
 			}
