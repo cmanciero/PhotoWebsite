@@ -4,8 +4,9 @@
 	angular.module('jobPhotoApp.utils.services', [])
 		.factory('linkedInService', ['$rootScope',
 			function($rootScope) {
-				var linkedInProfile = {};
-				var linkedInConnections = {};
+				var linkedInProfile = {},
+					linkedInConnections = {},
+					profileImage = '';
 
 				return {
 					setLinkedInProfile: function(profiles) {
@@ -21,6 +22,13 @@
 					},
 					getLinkedInConnections: function() {
 						return linkedInConnections;
+					},
+					setProfileImage: function(image) {
+						profileImage = image.values[0];
+						$rootScope.$broadcast('linkedInProfileImageSet', profileImage);
+					},
+					getProfileImage: function() {
+						return profileImage;
 					}
 				};
 			}

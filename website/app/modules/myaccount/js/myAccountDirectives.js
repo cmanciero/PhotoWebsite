@@ -49,7 +49,13 @@
 						};
 
 						scope.setValues = function(profile) {
-							scope.myJobTitle = profile.headline;
+							var arrJobTitle = profile.headline.split(' at');
+
+							if (arrJobTitle.length > 0) {
+								scope.myJobTitle = arrJobTitle[0];
+							} else {
+								scope.myJobTitle = profile.headline;
+							}
 						};
 
 						// set random jobs for all other options

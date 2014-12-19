@@ -21,6 +21,9 @@
 								'start': 0,
 								'count': 5
 							}).result(linkedInService.setLinkedInConnections).error(scope.onError);
+
+							// get original profile image
+							IN.API.Raw('/people/~/picture-urls::(original)').result(linkedInService.setProfileImage).error(scope.onError);
 						};
 
 						scope.onError = function(error) {
@@ -28,7 +31,7 @@
 						};
 
 						scope.onLogout = function() {
-							console.log('You are logged out');
+							console.log('You are logged out ');
 						};
 
 						// load linkedIn information

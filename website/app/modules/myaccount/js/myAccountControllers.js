@@ -38,6 +38,12 @@
 					});
 				}
 
+				$scope.$on('linkedInProfileImageSet', function(event, profileImage) {
+					$scope.$apply(function() {
+						$scope.myProfile.profileImage = profileImage;
+					});
+				});
+
 				$scope.topJob = jobService.findTopJob($scope.myInfo.jobs);
 			}
 		]);
